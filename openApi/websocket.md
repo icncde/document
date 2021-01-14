@@ -244,16 +244,17 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 }
 ```
 ## 3.参数说明
-周期参数：
-|     参数    	|     类型    	|     说明    	|
-|-	|-	|-	|
-|     H1    	|     String    	|     1hour    	|
-|     H4    	|     String    	|     4hour    	|
-|     H6    	|     String    	|     6hour    	|
-|     H12    	|     String    	|     12hour    	|
-|     DAY    	|     String    	|     1day    	|
-|     WEEK    	|     String    	|     1week    	|
-|     MONTH    	|     String    	|     1month    	|
+#### 周期参数：
+| 参数 | 类型 | 说明 |
+|---|---|---|
+| H1 | String | 1hour |
+| H4 | String | 4hour |
+| H6 | String | 6hour |
+| H12 | String | 12hour |
+| DAY | String | 1day |
+| WEEK | String | 1week |
+| MONTH | String | 1month |
+
 ## 4.返回错误码
 |     错误码    	|     错误内容    	|     说明    	|
 |-	|-	|-	|
