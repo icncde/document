@@ -1,111 +1,123 @@
-### 保证金&追加保证金
+### Margin & Margin Call
 
-<font color='red'> 保证金是您从账户净值中分配的用于创建仓位的资金 </font>
+<font color='red'> Margin is the funds you allocate from your account equity to create a position </font>
 
-例如，投资金额为500美元且杠杆为5倍的交易，敞口为2500美元。保证金为500美元，相当于20%。
+For example, a transaction with an investment amount of US$500
 
-##### 追加保证金
+and a leverage of 5 times would have an exposure of US$2500.
 
-由于ICNCDE是一个网上交易平台，需安排一个缓冲区在特定资产的价值出现突变时保障交易者和平台的安全。 所以，ICNCDE要求所有用户的账户中都必须预留特定的现金作为保证金。 一旦特定客户的账户没有足够的现金净值维持保证金比例，就会触发追加保证金。 如果账户到达追加保证金的界线，所有未平仓部位都会被强制平仓，账户将被冻结直至客户存入足够的资金。
+The margin is 500 USD, which is equivalent to 20%.
 
-例如：如果结余为-50美元，而未平仓部位的现值为50美元或以下（包括未实现收益），那么所有仓位都会被强制平仓以避免账户出现负净值。
+##### Margin call
 
-### 差价合约规则
+Since ICNCDE is an online trading platform, it is necessary to arrange a buffer zone to protect the safety of traders and the platform when the value of a particular asset changes suddenly. Therefore, ICNCDE requires that all users' accounts must reserve specific cash as a margin. Once a particular customer's account does not have enough net cash value to maintain the margin ratio, a margin call will be triggered. If the account reaches the margin of the margin call, all open positions will be forcibly closed, and the account will be frozen until the client deposits sufficient funds.
 
-##### 一、合约简介
+For example: if the balance is -50 USD and the present value of the open positions is 50 USD or less (including unrealized gains), then all positions will be forced to close to avoid negative equity in the account.
 
-差价合约是ICNCDE交易所推出的以数字货币计价及结算的虚拟合约产品，合约交易单位视交易品种类型与计价品种的不同而定，目前推出品种已涵盖股票（美国、英国、澳大利亚）、大宗商品（有色金属、能源、农产品）、指数（北美、欧洲、澳洲、亚太）、外汇四大市场，为投资者规避风险、放大收益、套期保值、资产配置、套利投资提供通道。
 
-##### 二、合约特点
+### CFD rules
 
-产品定价：锚定品种原市场实时价格，且交易时间保持一致；
-计价货币：以市场主流数字货币，如BTC、USDT作为计价货币，享受数据货币与传统市场双层收益；
-保证金：用户购买该合约应付的自有资金，杠杆越高，应付的保证金越少
+##### 1. Introduction to the contract
 
-##### 三、盈亏计算
+CFDs are virtual contract products priced and settled in digital currencies launched by the ICNCDE exchange. The contract trading unit depends on the type of transaction and the type of valuation. The currently launched products cover stocks (US, UK, Australia) and commodities The four major markets (non-ferrous metals, energy, agricultural products), indices (North America, Europe, Australia, Asia-Pacific), and foreign exchange provide channels for investors to avoid risks, amplify returns, hedging, asset allocation, and arbitrage investment.
 
-用户平仓盈亏按买涨与卖跌方向分别计算：
+##### 2. Contract features
 
-买涨：（平仓价－开仓价）×开仓数量×合约乘数－开仓手续费－平仓手续费
+Product pricing: anchor the original market real-time price of the product, and the transaction time remains the same; 
 
-卖跌：（开仓价－平仓价）×开仓数量×合约乘数－开仓手续费－平仓手续费
+Denominated currency: Use mainstream digital currencies in the market, such as BTC and USDT as the denominated currency, to enjoy the double-layer income of the data currency and the traditional market; 
 
-例：用户A持有2000美元，BTC此时价格为10000美元。A兑换了0.2个BTC，在$53.00时购买了300手AAPL（苹果）的股票，在价格涨到55时全部平仓。
+Margin: The user purchases the contract Own funds payable, the higher the leverage, the less margin payable
 
-直接购买苹果股票可买：2000÷53=37股
-|  差价合约   |  原市场   |
+##### 3. Profit and loss calculation
+
+User closing profit and loss are calculated according to the direction of buying up and selling down:
+
+Buying up: (closing price-opening price) × opening quantity × contract multiplier-opening handling fee-closing handling fee
+
+Selling price: (opening price-closing price) × opening quantity × contract multiplier-opening handling fee-closing handling fee
+
+Example: User A holds $2,000, and the price of BTC at this time is $10,000. A exchanged 0.2 BTC, bought 300 lots of AAPL (Apple) shares at $53.00, and closed all positions when the price rose to 55.
+
+Buy Apple shares directly to buy: 2000÷53=37 shares
+|  CFDs    |  Original Market   |
 | --- | --- |
-|   毛利：（55－53）×300×0.0001＝0.06  |   毛利：（55－53）×37＝74  |
-|  净利：0.06－53×300×0.0001×0.05%－55×300×0.0001×0.05%＝0.05838   |   净利：74－10＝64  |
-|   盈利率：0.05838÷0.2×100%＝29.19%  |   盈利率：64÷2000×100%＝3.2%  |
+|   Gross profit: (55－53)×300×0.0001=0.06  |   Gross profit: (55－53 )×37=74  |
+|  Net profit: 0.06－53×300×0.0001×0.05%－55×300×0.0001×0.05%=0.05838   |   Net profit: 74－10=64  |
+|   Profit rate: 0.05838÷0.2×100%= 29.19%  |   Profit rate: 64÷2000×100%=3.2%  |
 
 
 
-##### 四、交易费用
+##### 4. transaction costs
 
 
-交易时，用户交易费用共分三个部分，开仓手续费、平仓手续费与隔夜费，其中隔夜费为持仓有隔夜时方会收取。
+When trading, the user's transaction fee is divided into three parts, the opening fee, the closing fee and the overnight fee, of which the overnight fee will be charged when the position is held overnight.
 
-开仓手续费＝开仓数量×开仓价×合约乘数×开仓费率；
+Opening handling fee = opening quantity × opening price × contract multiplier × opening fee rate;
 
-平仓手续费＝平仓数量×平仓价×合约乘数×平仓费率；
+Closing fee = closing quantity × closing price × contract multiplier × closing fee rate;
 
-隔夜费＝（当前同业拆息率＋当前融资利率）×开仓数量×合约乘数×昨日收盘价÷360
+Overnight fee = (current interbank interest rate + current financing interest rate) × number of positions opened × contract multiplier × yesterday's closing price ÷ 360
 
-##### 五、止盈止损
 
-用户在开仓时，可以设置止盈、止损，以达到防范风险、锁定利润之目的，止盈止损方式分价格、金额、百分比三种：
+##### 5. stop profit and stop loss
 
-价格止盈（止损）：设定固定价格，行情到达设定价格后，交易单自动平仓；
+When opening a position, users can set profit and stop loss to prevent risks and lock in profits. There are three ways to stop profit and loss: price, amount, and percentage:
 
-金额止盈（止损）：盈利（亏损）到达设定金额后，交易单自动平仓；
+Price Take Profit (Stop Loss): Set a fixed price, after the market reaches the set price, the transaction order will be automatically closed;
 
-百分比止盈（止损）：盈利（亏损）占保证金的比例，当比例到达后，交易单自动平仓；
+Amount Take Profit (Stop Loss): After the profit (loss) reaches the set amount, the transaction order is automatically closed;
 
-##### 六、强平
+Percentage Take Profit (Stop Loss): the ratio of profit (loss) to margin. When the ratio is reached, the transaction order will be automatically closed;
 
-如果使用杠杆过高，且行情向预期相反的方向发展，交易单可能会被强平。用户交易时，
 
-每笔交易均会有相应的强平价，以付出的保证金作为强平价核算依据：
+##### 6. forced closing
 
-买涨强平价＝开仓价－（保证金－隔夜费－开仓手续费）÷（开仓数量×合约乘数）
+If the leverage is too high and the market develops in the opposite direction to expectations, the transaction order may be liquidated. When users trade,
 
-卖跌强平价＝开仓价＋（保证金－隔夜费－开仓手续费）÷（开仓数量×合约乘数）
+Each transaction will have a corresponding strong parity, and the paid margin is used as the basis for calculation of strong parity:
 
-### 费用与盈亏计算
+Buying strong parity = opening price-(margin-overnight fee-opening handling fee) ÷ (opening quantity × contract multiplier)
 
-用户平仓盈亏按买涨与卖跌方向分别计算：
+Selling strong parity = opening price + (margin-overnight fee-opening handling fee) ÷ (opening quantity × contract multiplier)
 
-买涨：（平仓价－开仓价）×开仓数量×合约乘数－开仓手续费－平仓手续费
 
-卖跌：（开仓价－平仓价）×开仓数量×合约乘数－开仓手续费－平仓手续费
+### Cost and profit and loss calculation
 
-例：用户A持有2000美元，BTC此时价格为10000美元。A兑换了0.2个BTC，在$53.00时购买了300手AAPL（苹果）的股票，在价格涨到55时全部平仓。
+User closing profit and loss are calculated according to the direction of buying up and selling down:
 
-直接购买苹果股票可买：2000÷53=37股
-|   差价合约  |  原市场   |
+Buying up: (closing price-opening price) × opening quantity × contract multiplier-opening handling fee-closing handling fee
+
+Selling price: (opening price-closing price) × opening quantity × contract multiplier-opening handling fee-closing handling fee
+
+Example: User A holds $2,000, and the price of BTC at this time is $10,000. A exchanged 0.2 BTC, bought 300 lots of AAPL (Apple) shares at $53.00, and closed all positions when the price rose to 55.
+
+
+Buy Apple shares directly to buy: 2000÷53=37 shares
+|  CFDs    |  Original Market   |
 | --- | --- |
-|   毛利：（55－53）×300×0.0001＝0.06  |  毛利：（55－53）×37＝74   |
-|  净利：0.06－53×300×0.0001×0.05%－55×300×0.0001×0.05%＝0.05838   | 净利：74－10＝64    |
-|  盈利率：0.05838÷0.2×100%＝29.19%   |    盈利率：64÷2000×100%＝3.2% |
+|   Gross profit: (55－53)×300×0.0001=0.06  |   Gross profit: (55－53 )×37=74  |
+|  Net profit: 0.06－53×300×0.0001×0.05%－55×300×0.0001×0.05%=0.05838   |   Net profit: 74－10=64  |
+|   Profit rate: 0.05838÷0.2×100%= 29.19%  |   Profit rate: 64÷2000×100%=3.2%  |
 
-### 合约规则说明
+### Contract rule description
 
-合约交易单位视交易品种类型与计价品种的不同而定，目前推出品种已涵盖股票（美国、英国、澳大利亚）、大宗商品（有色金属、能源、农产品）、指数（北美、欧洲、澳洲、亚太）、外汇四大市场，为投资者规避风险、放大收益、套期保值、资产配置、套利投资提供通道。
+The contract trading unit depends on the type of transaction and the type of pricing. The currently launched varieties cover stocks (US, UK, Australia), bulk commodities (non-ferrous metals, energy, agricultural products), and indices (North America, Europe, Australia, Asia Pacific) The four major foreign exchange markets provide channels for investors to avoid risks, amplify returns, hedging, asset allocation, and arbitrage investment.
 
-产品定价： 锚定品种原市场实时价格，且交易时间保持一致；
+Product pricing: anchor the original market real-time price of the product, and the transaction time remains the same;
 
-计价货币：以市场主流数字货币，如BTC、ETH、USDT作为计价货币，享受数据货币与传统市场双层收益；
-保证金：用户购买该合约应付的自有资金，杠杆越高，应付的保证金越少
+Pricing currency: mainstream market digital currencies such as BTC, ETH, USDT are used as pricing currencies to enjoy the double-layer benefits of data currency and traditional markets; Margin: the user’s own funds payable for purchasing the contract. The higher the leverage, the less margin payable
 
-### 平仓方式&优先级
 
-如果使用杠杆过高，且行情向预期相反的方向发展，交易单可能会被强平。用户交易时，每笔交易均会有相应的强平价，以付出的保证金作为强平价核算依据：
+### Liquidation method & priority
 
-买涨强平价＝开仓价－（保证金－隔夜费－开仓手续费）÷（开仓数量×合约乘数）
+If the leverage is too high and the market develops in the opposite direction to expectations, the transaction order may be liquidated. When users trade, each transaction will have a corresponding strong parity, and the paid margin is used as the basis for calculation of the strong parity:
 
-卖跌强平价＝开仓价＋（保证金－隔夜费－开仓手续费）÷（开仓数量×合约乘数）
+Buying strong parity = opening price-(margin-overnight fee-opening handling fee) ÷ (opening quantity × contract multiplier)
 
-### 上线品种
+Selling strong parity = opening price + (margin-overnight fee-opening handling fee) ÷ (opening quantity × contract multiplier)
 
-差价合约是ICNCDE交易所推出的以数字货币计价及结算的虚拟合约产品，目前已上线的数字货币包含：BTC、USDT、ETH、ETC、LTC、BCH、XRP、EOS，敬请期待更多数字货币上线。
+
+### Online varieties
+
+CFD is a virtual contract product priced and settled in digital currency launched by ICNCDE exchange. The digital currencies currently on the line include: BTC, USDT, ETH, ETC, LTC, BCH, XRP, EOS, please look forward to more digital currencies online.

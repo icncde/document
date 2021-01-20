@@ -1,68 +1,75 @@
-### 充币流程
-1、登录ICNCDE官网进入首页，点击右上角【资产】按钮，在资金账户类目下选择【充币】
+### Deposit process
+1. Log in to the ICNCDE official website to enter the home page, click the [Asset] button in the upper right corner, and select [Deposit] under the fund account category
 
-2、请选择您需要充值的币种名称
+2. Please select the name of the currency you need to recharge
 
-3、以BTC（比特币）为例，您可以把ICNCDE的“BTC充币地址”复制到剪切板，并把该地址粘贴在对应资产转出（提现）平台的地址栏内（您首先需要有一个对应资产的转出（提现）平台）
+3. Taking BTC (Bitcoin) as an example, you can copy the "BTC deposit address" of ICNCDE to the clipboard, and paste the address in the address bar of the corresponding asset transfer (withdrawal) platform (you need to have a corresponding asset transfer (withdrawal) platform first)
 
-4、充币完成后，您可以在充币页面查看当前充币的记录状态
+4. After the deposit is completed, you can check the current deposit record status on the deposit page
 
-![充币](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/recharge1.png "充币")
 
-温馨提示：
+![Deposit](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/recharge1-en.png "Deposit")
 
-（1）充币时请确认是对应的币种地址，不同的币种的地址是不同的，如果充币币种与填入币种地址不符合，资产将不可找回。
+Tips:
 
-（2）您充值至上述地址后，需要整个网络节点的确认，为快速到账，您可以向网络支付少量手续费。到账时间一般为10分钟-60分钟。
+(1) Please confirm the corresponding currency address when depositing coins. Different currencies have different addresses. If the deposit currency does not match the filled currency address, the assets will not be retrieved.
 
-（3）充币是有最小金额限制的，不同的币种充值的最小金额不同 ，小于最小金额的充值将不会上账。
+(2) After you recharge to the above address, you need to confirm the entire network node. In order to get the deposit quickly, you can pay a small fee to the network. The arrival time is generally 10 minutes to 60 minutes.
 
-（4）部分币种充值时需要填写地址标签，请务必填写并仔细核对地址标签，这是您账户的唯一标识，否则资产将无法入账。例如：XRP，APL，EOS等。
+(3) There is a minimum amount limit for deposits. Different currencies have different minimum deposits. Deposits less than the minimum amount will not be posted.
 
-（5）您的充值地址不会经常改变，可以重复充值；如有更改，我们会尽量通过网站公告或邮件通知您。
+(4) Some currencies need to fill in the address label when recharging, please be sure to fill in and carefully check the address label, this is the only identifier of your account, otherwise the assets will not be credited. For example: XRP, APL, EOS, etc.
 
-### 地址簿管理说明
-地址簿主要是为了方便您在平台管理各个币种，您可以添加所有币种的地址，也可查看已添加的所有币种的地址。
+(5) Your recharge address will not be changed frequently, it can be used repeatedly; if there is any change, we will try our best to notify you via website announcement or email.
 
-您可前往1.登录官网—2.点击右上角【资产】—3.选择提币—4.点击地址簿进行管理
 
-![地址簿管理](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/address1.png "地址簿管理")
+### Address book management instructions
+The address book is mainly for your convenience to manage various currencies on the platform. You can add addresses in all currencies, and you can also view addresses in all currencies that have been added.
 
-### 提币流程
-1、登录ICNCDE官网进入首页，点击右上角【资产】按钮，在资金账户类目下选择【提币】
+You can go to 1. Log in to the official website — 2. Click on the upper right corner [Assets] — 3. Select withdrawal — 4. Click on the address book to manage
 
-2、请选择提现币种，输入提现地址，提现数量，资金密码和手续费后提交
 
-3、通过手机/邮箱/谷歌提币确认验证即可
+![](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/address1-en.png "")
 
-温馨提示：
+### Withdrawal process
+1. Log in to the ICNCDE official website to enter the homepage, click the [Asset] button in the upper right corner, and select [Withdrawal] under the fund account category
 
-（1）如未进行实名认证，可先完成实名认证之后再次操作提币，具体实名认证级别与提币额度，可查看2.4实名认证等级权益说明。
+2. Please select the withdrawal currency, enter the withdrawal address, withdrawal quantity, fund password and handling fee and submit
 
-（2）客服人工审核时视账户风险情况会通过包括但不限于电话或视频的方式向您核实必要的信息。
+3. Confirm the verification via mobile phone/email/Google withdrawal
 
-（3）请不要透露密码、短信验证码、谷歌验证码等给任何人。
 
-### 提币审核流程
-用户完成提币流程后，系统会根据账户的安全状况进行审核：
+Tips:
 
-（1）用户提币到新地址时视系统评估的安全状况可能会进行身份校验，验证通过即可进行提币，验证失败转入人工审核。
+(1) If the real-name authentication has not been carried out, you can complete the real-name authentication firstand then operate the withdrawal again. For the specific real-name authentication level and withdrawal limit, please refer to 2.4 Real-name authentication level rights description.
 
-（2）用户提币到已审核的地址时，根据评估的风险分值，可能无需人工审核即可提币；若系统检测发现账户异常，则转移至人工审核。
+(2) When the customer service manually reviews the account risk, they will verify the necessary information with you by means including but not limited to telephone or video.
 
-（3）客服人工审核时视账户风险情况会通过包括但不限于电话或视频的方式向您核实必要的信息。
+(3) Please do not disclose your password, SMS verification code, Google verification code, etc. to anyone.
 
-备注：实际到账的数量=提币数量-提币手续费
 
-### 资金划转操作说明
-1、登录ICNCDE官网进入首页，点击右上角【资产】按钮，在资金账户类目下选择【资金划转】
+### Withdrawal review process
+After the user completes the withdrawal process, the system will review according to the security status of the account:
 
-2、选择币种
+(1) When a user withdraws coins to a new address, an identity verification may be performed depending on the security status assessed by the system, and the coin can be withdrawn after the verification is passed, if not it will be transferred to a manual review.
 
-3、选择资金转出与转入的账户，输入划转数量
+(2) When a user withdraws coins to an audited address, according to the assessed risk score, it may be possible to withdraw coins without manual review; if the system detects that the account is abnormal, it will be transferred to manual review.
 
-4、全部确认后，点击【划转】按钮
+(3) When the customer service manually reviews the account risk,they will verify the necessary information with you through methods including but not limited to telephone or video.
 
-5、在资金划转页面右上角可点击查看资金划转记录
+Remarks: Actual amount received = Withdrawal amount-Withdrawal fee
 
-![资金划转](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/address2.png "资金划转")
+
+### Operating instructions for capital transfer
+1. Log in to the ICNCDE official website to enter the home page, click the [Asset] button in the upper right corner, and select [Capital Transfer] under the fund account category
+
+2. Choose currency
+
+3. Select the account to be transferred out and in, and enter the transfer amount
+
+4. After confirming everything, click the [Transfer] button
+
+5. In the upper right corner of the fund transfer page, you can click to view the fund transfer record
+
+
+![](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/address2-en.png "")

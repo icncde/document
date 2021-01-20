@@ -1,14 +1,14 @@
-### 差价合约的成交机制
+### CFD trading mechanism
 
-差价合约中，用户开仓、平仓、止盈、止损等触发价格均为最新价，实际成交价是买卖价。例如：此时BTC/USD合约最新价是9852.5，卖价9850，买价9855，当用户做空BTC/USD时，开仓成本为9850，当用户做多BTC/USD时，开仓成本为9855，平仓、止盈止损等触发价格均以最新价为准。
+In CFDs, the trigger prices for users to open, close, take profit, and stop loss are all the latest prices, and the actual transaction price is the buying and selling price. For example: at this time, the latest price of the BTC/USD contract is 9852.5, the selling price is 9850, and the buying price is 9855. When the user shorts BTC/USD, the opening cost is 9,850, and when the user goes long BTC/USD, the opening cost is 9855. The trigger prices for position closing, stop profit and stop loss are subject to the latest price.
 
-### 差价合约的交易规则是什么？
+### What are the trading rules for CFDs?
 
-1. 用户根据产品的走势判断多空方向，缴纳相应保证金进行买多卖空开仓。
-2. 用户选择合适的价格与数量成交。只有当账户可用资金大于等于交易成功后保证金的数量，用户才能进行委托操作。
-3. 用户可根据市场行情，随时调整仓位，通过平仓锁定收益或止损，或继续开仓追增收益。
-4. 所有已实现盈亏将同步反映至账户余额。
+1. The user judges the direction of long and short according to the trend of the product, and pays the corresponding margin to buy long and short positions.
+2. The user chooses the appropriate price and quantity to trade. Only when the available funds in the account are greater than or equal to the amount of margin after the transaction is successful, the user can perform entrusted operations.
+3. Users can adjust their positions at any time according to market conditions, lock in gains or stop losses by closing positions, or continue to open positions to chase gains.
+4. All realized profits and losses will be reflected to the account balance simultaneously.
 
-### 差价合约中，交易关闭的情况
+### In the CFD, the transaction is closed
 
-股指期货、外汇、商品等产品有对应的交易时间（相当于股票的开市时间和休市时间），在产品休市期间，用户点击交易时，系统会提示非交易时间，且不可下单。
+Stock index futures, foreign exchange, commodities and other products have corresponding trading hours (equivalent to the opening time and closing time of stocks). During the product closing period, when the user clicks to trade, the system will prompt non-trading hours and no orders can be placed.

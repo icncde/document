@@ -1,28 +1,27 @@
-### 登录流程
+### Login process
 
-#### 登录链接：<a href="http://www.icncde.com/login" target="_blank">http://www.icncde.com/login</a>
+#### Login link：<a href="https://www.icncde.com/login" target="_blank">https://www.icncde.com/login</a>
 
 
-#### 1、填写基本信息
-包括：手机登录--输入手机号、登录密码
-邮箱登录--输入邮箱、登录密码
+#### 1. Fill in the basic information
+Including: mobile phone login--enter mobile phone number, login password, email login--enter email, login password
 
-![登录页面](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/login1.png "登录页面")
+![Login process](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/login1-en.png "Login process")
 
-#### 2、找回密码说明
-填写账号--输入验证码--设置新密码--完成
+#### 2. Instructions for retrieving password
+Fill in the account-enter the verification code-set a new password-complete
 
-![重置密码](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/login2.png "重置密码")
+![Retrieving password](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/login2-en.png "Retrieving password")
 
-### 注册流程
+### Registration process
 
-#### 注册链接：<a href="http://www.icncde.com/register" target="_blank">http://www.icncde.com/register</a>
+#### Registration link：<a href="https://www.icncde.com/register" target="_blank">https://www.icncde.com/register</a>
 
-#### 1、填写基本信息
-包括：手机注册--手机号、验证码、密码，确认密码；
+#### 1. Fill in the basic information
+Including: mobile phone registration-mobile phone number, verification code, password, confirm password;
 
-邮箱注册--邮箱号、验证码、密码，确认密码；
+Email registration-email number, verification code, password, confirm password;
 
-![注册页面](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/register1.png "注册页面")
+![Registration process](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/register1-en.png "Registration process")
 
-![注册成功提示](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/register2.png "注册成功提示")
+![Registration success tips](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/register2-en.png "Registration success tips")

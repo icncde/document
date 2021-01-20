@@ -1,16 +1,16 @@
-![商务合作](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/cooperate1.png "商务合作")
+![](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/cooperate1.png "Business cooperation")
 
-#### 欧洲
+#### Europe
 Europe@icncde.com
 
-#### 亚洲
+#### Asia
 Asia@icncde.com
 
-#### 美洲
+#### America
 America@icncde.com
  
-#### 大洋洲
+#### Oceania
 Oceania@icncde.com
  
-#### 非洲
+#### Africa
 Oceania@icncde.com

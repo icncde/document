@@ -1,9 +1,9 @@
-### 法币交易买币已支付却没收到币怎么办？
+### What should I do if I have paid for fiat currency transactions but have not received the currency?
 
-1. 法币交易买币支付完成或对方确认支付后，即刻出现“联系对方”按钮，可联系对方提醒确认收款放币。
-2. 付款完成后，若卖家在12小时内未确认，系统将会自动释放币给买家。
-3. 若联系不到卖家，可点击在线申诉，并说明原因和上传凭证。
+1. After the fiat currency transaction is completed or the other party confirms the payment, the "contact the other party" button will appear immediately, and you can contact the other party to remind you to confirm the payment and release.
+2. After the payment is completed, if the seller does not confirm within 12 hours, the system will automatically release the currency to the buyer.
+3. If you can't contact the seller, you can click Online Appeal, explain the reason and upload the proof.
 
-### 法币交易卖币没收到付款怎么办？
+### What should I do if I don’t receive payment when selling currency in fiat currency transactions?
 
-法币交易卖币，买家会在指定时间内付款，若买家点击已支付，卖家却迟迟未收到付款，可点击“申请投诉”冻结币，由客服介入处理，防止超时自动放币给买家。
+For legal currency transactions to sell currency, the buyer will pay within the specified time. If the buyer clicks paid but the seller has not received the payment, click "Apply for Complaint" to freeze the currency, and the customer service will intervene to deal with it to prevent automatic currency release over time Buyers.

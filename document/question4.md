@@ -1,27 +1,25 @@
-### 安全设置
+### Security Settings
 
-平台默认选择异地登录及邮件提醒通知。当您异地登录ICNCDE账户时，系统会发邮件通知您。
+By default, the platform selects remote login and email notifications. When you log in to your ICNCDE account in a different place, the system will send an email to notify you.
 
-为了您账户资产安全，请保护好您账户密码等个人隐私信息！切勿把短信验证码告诉任何人，平台工作人员也不会向您索要！
+For the safety of your account assets, please protect your personal privacy information such as your account password! Do not tell anyone the SMS verification code, and the platform staff will not ask you for it!
 
-### 如何防止钓鱼攻击？
+### How to prevent phishing attacks?
 
-##### 1. 什么是钓鱼？
-钓⻥式攻击，是通过伪装成他人以获得如用户名、密码、资⾦和身份证等个人敏感信息的犯罪诈骗过程。这些通信都声称（⾃⼰）来⾃官⽅、运营、客服或是网络管理者，以此来诱骗获取受害人的轻信。
+##### 1. What is fishing?
+Phishing attacks are criminal fraud processes that pretend to be others to obtain sensitive personal information such as usernames, passwords, credentials, and ID cards. These communications all claim to (self) come from an official, operator, customer service, or network manager, in order to trick the victim into gaining credibility.
 
-##### 2. 钓鱼传播途径
-**通过病毒**--不法分子克隆⼀个与ICNCDE⼀模一样的⽹站，然后使用⼀些电脑病毒程序、垃圾软件等将假网站地址发送到客户的电脑上，或放在搜索⽹网站上诱骗⽤户登录，以窃取⽤用户账号密码、交易信息或资⾦等。
+##### 2. Phishing transmission method
+Clone a website that is exactly the same as ICNCDE **through a virus** -criminals, and then use some computer virus programs, junk software, etc. to send the fake website address to the customer's computer, or put it on the search website to trick the user Log in to steal user account passwords, transaction information or credentials, etc.
 
-**通过⼿机短信**--不法分子利⽤⼿机短信，冒充ICNCDE向⽤用户发送诈骗短信，声称用户中奖或账户被他人盗⽤等，要求用户尽快登录到短信中指定的⽹站进⾏身份验证。⽽该网站是不法分子建⽴的、⽤于套取⽤户信息的假网站，如用户登录该⽹站并进行操作，那么用户的账号、密码等信息将会被不法分⼦获悉。
+**Through mobile text messages** -criminals use mobile text messages to pretend to be ICNCDE to send fraudulent text messages to users, claiming that the user has won a lottery or the account has been stolen by others, etc., and requires users to log in to the website designated in the text message as soon as possible for authentication. This website is a fake website built by criminals and used to obtain user information. If a user logs in to the website and performs operations, the user's account, password and other information will be illegally learned.
 
-**通过建立虚假的网站**--不法分子首先建立⼀个假的网站，然后在QQ、微信等社交平台网站发布虚假的活动信息，该活动往往给⽤户画⼀个很⼤的饼，当⽤户在该假网站登录的时候账号密码信息将被不法分子获悉。
+**By establishing a fake website** --the criminals first set up a fake website, and then publish false activity information on social platforms such as QQ and WeChat. The activity often draws a large pie to the user. The account and password information will be learned by criminals when logging in to the fake website.
 
-**通过冒充官方的邮箱**--不法分⼦⼤量发送欺诈性邮件，引诱用户登录假网站，这些邮件多以中奖、系统升级等各种理由，要求收件⼈点击邮件上的链接地址，登录⼀个跟ICNCDE网⻚相似的界面，⽽用户⼀旦在这个指定的登录界⾯输入了⾃⼰的账号密码等信息，这些信息就会被窃取。
+Send fraudulent emails illegally **by pretending to be an official email** address to induce users to log in to fake websites. These emails are mostly used for various reasons such as winning prizes and system upgrades. The recipient is required to click on the link address on the email to log in one. The interface is similar to the ICNCDE web. Once the user enters his/her own account password and other information in this designated login interface, the information will be stolen.
 
-##### 3. 防钓鱼
-1. 使用比较安全的Chrome浏览器，并升级到最新版本；
-注：Chrome是谷歌的产品，安全性是公认较高的，升级最新版本是因为低版本的会有很多漏洞。
-2. 不要随意安装浏览器插件；
-注：浏览器插件拥有很高的权限，存在被盗号的风险。
-3. 切勿打开不可信的链接地址，不要在来路不明的网站上输入ICNCDE的账号密码以及个人信息，以免被钓鱼网站或网络木马等窃取；安装杀毒软件，定期对电脑和手机进行杀毒；按时更新系统补丁；
-4. 请勿将官方发送的验证码给其他人；当您登陆或者进行交易相关的操作时候请确定域名是否属于ICNCDE，对未知的域名可向客服咨询。
+##### 3. Anti-phishing
+1. Use a safer Chrome browser and upgrade to the latest version; Note: Chrome is a product of Google, and the security is generally recognized as high. Upgrading to the latest version is because there are many loopholes in the lower version.
+2. Do not install browser plug-ins at will; Note: The browser plug-ins have high authority and there is a risk of account theft.
+3. Do not open untrusted link addresses, do not enter ICNCDE account passwords and personal information on unknown websites to avoid being stolen by phishing websites or network Trojan horses; install anti-virus software and regularly anti-virus on computers and mobile phones; update on time System patch
+4. Please do not send the official verification code to others; when you log in or perform transaction-related operations, please make sure whether the domain name belongs to ICNCDE. For unknown domain names, you can consult customer service.

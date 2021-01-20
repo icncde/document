@@ -1,388 +1,414 @@
-### BTC (比特币)
-1.什么是比特币？
+### BTC (Bitcoin)
+##### 1. What is Bitcoin?
+
+Bitcoin (BTC for short) is currently the most widely used digital currency. It was born on January 3, 2009. It is a digital encrypted currency for peer-to-peer (P2P) transmission, with a total of 21 million. The Bitcoin network releases a certain amount of coins every 10 minutes, which is expected to reach its limit in 2140. Bitcoin is called "digital gold" by investors. Bitcoin is generated through a large number of calculations based on a specific algorithm. It does not rely on specific currency institutions to issue. It uses a distributed database composed of many nodes in the entire P2P network to confirm and record all transaction behaviors, and uses cryptographic design to ensure currency circulation. The security of the link can ensure that the value of the currency cannot be manipulated through the large-scale production of Bitcoin. The design based on cryptography allows Bitcoin to be transferred, paid and cashed only by the real owner. It also ensures the anonymity of currency ownership and circulation transactions.
+
+Bitcoin is favored by technology enthusiasts due to its decentralization, global circulation, low transaction costs, and anonymous circulation. Recently, traditional financial institutions such as Wall Street and central banks of many countries have begun to study Bitcoin blockchain technology. The Japanese government has officially recognized Bitcoin as a legal payment method, and more and more Japanese merchants have accepted Bitcoin payments.
+
+##### 2. What are the advantages of Bitcoin?
+
+Freedom of payment-any amount of funds can be paid and received instantly anytime and anywhere. No bank holidays, no borders, and no restrictions imposed. Bitcoin allows its users to fully control their funds.
+
+Very low fees-currently there are no fees or very small fees for the processing of Bitcoin payments. Users can include the handling fee in the transaction to get processing priority, and receive the transaction confirmation from the network faster. In addition, there are merchant processors that assist merchants in processing transactions, converting bitcoins into legal tender every day and depositing funds directly into merchants’ bank accounts. Because these services are based on Bitcoin, they can provide fees that are much lower than PayPal or credit card networks.
+
+Reduce risk for merchants-Bitcoin transactions are secure, irrevocable, and do not contain sensitive or personal information of customers. This avoids losses to merchants due to fraud or fraudulent chargebacks, and there is no need to comply with PCI standards. Where credit cards are unusable or fraud rates are unacceptably high, merchants can easily expand into new markets. The end result is lower costs, a larger market, and fewer administrative costs.
+
+Security and control-Bitcoin users are in full control of their transactions; merchants cannot forcefully charge fees that may occur in other payment methods that should not be or are not easily discovered. Paying with Bitcoin eliminates the need to bind personal information in the transaction, which provides great protection against identity theft. Bitcoin users can also protect their funds through backup and encryption.
+
+Transparency and neutrality-All information about the Bitcoin funding supply itself is stored in the blockchain, and anyone can check and use it in real time. No individual or organization can control or manipulate the Bitcoin protocol because it is password protected. This makes Bitcoin Core believed to be completely neutral, transparent and predictable.
+
+##### 3. What are the disadvantages of Bitcoin?
+
+Acceptance-There are still many people who don't know Bitcoin. Every day, more companies accept Bitcoin because they want to benefit from it, but this list is still small. In order to benefit from network effects, more companies still need to support Bitcoin.
+
+Volatility-the total value of bitcoins in circulation and the number of businesses using bitcoins are still very small compared to their possible size. Therefore, relatively small events, transactions or business activities can significantly affect its price. In theory, as the Bitcoin market and technology mature, this volatility will decrease. This world has never seen an emerging currency before, so it is really difficult (and exciting at the same time) to imagine how it will progress.
+
+In development stage-Bitcoin software is still in beta version, and many unfinished features are in active development stage. New tools, features and services are being developed to make Bitcoin safer and more accessible to the general public. Some of these functions are not currently available to every user. Most of the Bitcoin business is new and does not yet provide insurance. In general, Bitcoin is still in the process of maturity.
+
  
-比特币（Bitcoin，简称BTC）是目前使用最为广泛的一种数字货币，它诞生于2009年1月3日，是一种点对点（P2P）传输的数字加密货币，总量2100万枚。比特币网络每10分钟释放出一定数量币，预计在2140年达到极限。比特币被投资者称为“数字黄金”。比特币依据特定算法，通过大量的计算产生，不依靠特定货币机构发行，其使用整个P2P网络中众多节点构成的分布式数据库来确认并记录所有的交易行为，并使用密码学设计确保货币流通各个环节安全性，可确保无法通过大量制造比特币来人为操控币值。基于密码学的设计可以使比特币只能被真实拥有者转移、支付及兑现。同样确保了货币所有权与流通交易的匿名性。
+##### 4. Detailed parameters
  
-比特币因去中心化、全球流通、低交易费用 、匿名流通等特点，备受科技爱好者青睐。近来华尔街、多国央行等传统金融机构开始研究比特币区块链技术，日本政府正式承认比特币为法定支付方式，越来越多的日本商家接受了比特币支付。
+Chinese name: 比特币
+
+English name: Bitcoin
+
+English abbreviation: BTC
+
+Developer: Satoshi Nakamoto
+
+Core Algorithm: SHA-256
+
+Release date: 2009/01/03
+
+Total: 21 million
+
+Block time: about 600 seconds / Block
+
+consensus proof: POW 
+
+Block reward: current 12.5BTC/block (210,000 blocks per output/half every four years, the last halving time: July 9, 2016) 
+
+Risk: There is a potential for expansion Fork risk
+
+currency unit: BTC/XBT
+
+1 Bitcoin (Bitcoins, BTC)
+
+10−2 Bitcent (Bitcent, cBTC)
+
+10−3 Milli-Bitcoins (mBTC)
+
+10−6 Micro-Bitcoins, μBTC )
+
+10−8 Satoshi (Satoshi)
  
-2.比特币的优势是什么？
+##### 5. Common links
  
-支付自由 - 无论何时何地都可以即时支付和接收任何数额的资金。无银行假日，无国界，无强加限制。比特币允许其用户完全控制他们的资金。
- 
-极低的费用 - 目前对比特币支付的处理不收取手续费或者仅收取极少的手续费。用户可以把手续费包含在交易中来获得处理优先权，更快收到由网络发来的交易确认。另外，也有商家处理器协助商家处理交易，每天将比特币兑换成法定货币并直接将资金存入商家的银行账户。因为这些服务都基于比特币，所以它们可以提供远低于PayPal或信用卡网络的手续费。
- 
-降低商家的风险 - 比特币交易是安全，不可撤销的，并且不包含顾客的敏感或个人信息。这避免了由于欺诈或欺诈性退单给商家造成的损失，而且也没有必要遵守PCI标准。在信用卡无法使用或欺诈率高得令人无法接受的地方，商家也可以很容易地扩展新的市场。最终结果是更低的费用，更大的市场，和更少的行政成本。
- 
-安全和控制 - 比特币的用户完全控制自己的交易；商家不可能强制收取那些在其它支付方式中可能发生的不该有或不易发现的费用。用比特币付款可以无须在交易中绑定个人信息，这提供了对身份盗用的极大的防范。比特币的用户还可以通过备份和加密保护自己的资金。
- 
-透明和中立 - 关于比特币资金供给本身的所有信息都存储在块链中，任何人都可以实时检验和使用。没有个人或组织能控制或操纵比特币协议，因为它是密码保护的。这使得比特币核心被相信是完全中立，透明以及可预测的。
- 
-3.比特币的缺点是什么？
- 
-接受程度 - 仍然有很多人不知道比特币。每天有更多的企业接受比特币，因为他们希望从中受益，但这个列表依然很小，为了从网络效应中获益，仍然需要有更多的企业支持比特币。
- 
-波动性 - 流通中的比特币总价值和使用比特币的企业数量与他们可能的规模相比仍然非常小。因此，相对较小的事件，交易或业务活动都可以显著地影响其价格。从理论上讲，随着比特币的市场和技术的成熟，这种波动将会减少。这个世界以前从未出现过任何一个新兴货币，所以想象它将如何进展真的非常困难 (同时也令人兴奋)。
- 
-处于发展阶段 - 比特币软件依然处于beta版本，许多未完成的功能处于积极研发阶段。新的工具，特性和服务正在研发中以使比特币更为安全，为更多大众所使用。其中有一些功能目前还不是每个用户都能使用。大部分比特币业务都是新兴的，尚不提供保险。总体来说，比特币尚处于成熟的过程当中。
- 
-4.详细参数
- 
-中文名：比特币          英文名：Bitcoin     英文简称：BTC
-研发者：Satoshi Nakamoto   核心算法：SHA-256    发布日期：2009/01/03
-总量：2100万           区块时间：约600秒/块  共识证明：POW
-区块奖励：当前12.5BTC/区块（每产出21万个区块/约每四年减半一次，最近一次减半时间：2016年7月9日）
-风险：扩容之争，存在潜在的分叉风险
-货币单位：BTC/XBT
-1       比特币（Bitcoins，BTC）
-10−2      比特分（Bitcent，cBTC）
-10−3      毫比特（Milli-Bitcoins，mBTC）
-10−6      微比（Micro-Bitcoins，μBTC）
-10−8     聪（Satoshi）
- 
-5.常用链接
- 
-官方网站：https://bitcoin.org/zh_CN/
-比特币常见问题：https://bitcoin.org/zh_CN/faq
-区块查询：https://blockchain.info/
-比特币论坛：https://bitcointalk.org/
-市值查询网站：https://coinmarketcap.com/
+Official website: https://bitcoin.org/zh_CN/
+
+Bitcoin FAQ: https://bitcoin.org/zh_CN/faq
+
+Block query: https://blockchain.info/
+
+Bitcoin forum: https://bitcointalk .org/
+
+market value query website: https://coinmarketcap.com/
 
 
 ### BCH (Bitcoin ABC)
-一、项目名称
- Bitcoin ABC (BCH)
- 
-二、项目定位
-Bitcoin ABC的目标是创造出人人都可以使用的可靠资金。
- 
-三、币概况与分配
-代币总量：21,000,000 BCH
- 
-四、常用链接
-项目网站： https://www.bitcoinabc.org/
+1. Project name Bitcoin ABC (BCH)
+
+2. Project positioning Bitcoin ABC's goal is to create reliable funds that everyone can use.
+
+3. Currency overview and total amount of distributed tokens: 21,000,000 BCH
+
+4. Commonly linked project website: https://www.bitcoinabc.org/
+
 
 ### BSV (Bitcoin SV )
-一、 项目名称
-Bitcoin SV (BSV)
- 
-二、项目定位
-比特币 SV 是比特币现金（BCH）的全节点实现。应比特币现金（BCH）矿业巨头 CoinGeek 及其他矿工的要求，团队创建了比特币 SV，旨在为矿工提供明确的比特币现金（BCH）实现选择，并允许企业在其稳固可靠的基础上构建应用程序和网站。
- 
-三、币概况与分配
-代币总量：21,000,000 BSV
- 
-四、常用链接
-项目网站：https://bitcoinsv.io/
+1. Project name Bitcoin SV (BSV)
 
-### DASH (达世币)
-1. 什么是达世币？
+2. Project positioning Bitcoin SV is the full node realization of Bitcoin Cash (BCH). At the request of Bitcoin Cash (BCH) mining giant CoinGeek and other miners, the team created Bitcoin SV, aiming to provide miners with clear Bitcoin Cash (BCH) implementation options and allow companies to build on its solid and reliable foundation Application and website.
 
- 
-达世币，英文名DASH，是一种开源的点对点（P2P）加密货币，能够提供即时交易、匿名交易和替代货币功能。
- 
-达世币网络是由工作量证明挖矿（比特币所使用的共识机制）机制来负责保护的，并且它使用的是基于11种不同哈希函数的X11算法。其主节点是一种服务证明（proof-of-service）层，这些节点同时作为交易混频器和助推器，此外它也作为达世币管理系统的投票机制。
- 
-达世币的区块奖励会划分给两个层（矿工和主节点）。其中矿工获得45％的回报，主节点收到45%，剩余的10%则分配给去中心化的达世币预算系统，每个区块的产生时间是2.5分钟，一个区块给矿工3.6个达世币奖励。具体如下表：
- 
-2. 背景
+3. The currency overview and the total amount of distributed tokens: 21,000,000 BSV
 
-考虑到比特币匿名性和交易处理速度，Evan Duffield和团队开始了DASH的研发，并于2014年1月正式创立达世币。至此，达世币完成了在比特币的基础上的相关改进，以去中心化网络服务器“主节点”混淆交易的方式，提高了交易的匿名性。同时基于节点，提高了交易处理速度，由此诞生出了去中心化的和具备良好匿名性的达世币。
- 
-3. 特点
+4. Commonly linked project website: https://bitcoinsv.io/
 
-匿名性高：比特币交易中，所有交易数据都会被记录到数据块链中，比特币的去向可见，进而便能查询到接收和发送双方。然而达世币通过匿名发送的技术，以去中心化网络服务器“主节点”混淆交易的方式，使得交易无法被追踪查询，进而实现高匿名性。
- 
-即时发送：比特币网络需要花费10分钟甚至数个小时来确认交易，达世币能够即时发送。
- 
-自主管理系统：通过此系统，达世币网络可以通过提案与投票的方式为研发和营销进行资源配置，而且任何用户都可以在网络上创建并呈交提案。
- 
-4. 常用链接
+### DASH (Dash)
+1.	What is Dash?
 
-DASH官网  区块浏览器  钱包下载  DASH论坛  Twiter  Facebook
+Dash, the English name DASH, is an open source peer-to-peer (P2P) encrypted currency that can provide instant transaction, anonymous transaction and alternative currency functions.
+
+The Dash network is protected by a proof-of-work mining (consensus mechanism used by Bitcoin) mechanism, and it uses the X11 algorithm based on 11 different hash functions. The master node is a proof-of-service layer. These nodes act as a transaction mixer and booster at the same time. In addition, it also serves as a voting mechanism for the Dash management system.
+
+The block reward of Dash will be divided into two layers (miners and master nodes). Among them, the miners get 45% of the return, the master node receives 45%, and the remaining 10% is allocated to the decentralized Dash budget system. The generation time of each block is 2.5 minutes, and each block is given to the miners 3.6 Dash rewards. The details are as follows:
+
+1.	background
+
+Considering the anonymity of Bitcoin and the speed of transaction processing, Evan Duffield and his team started the research and development of DASH, and formally founded Dash in January 2014. So far, Dash has completed related improvements on the basis of Bitcoin, and has improved the anonymity of transactions by obfuscating transactions by the decentralized network server "master node". At the same time, based on the node, the transaction processing speed is improved, and thus a decentralized and well-anonymized Dash was born.
+
+1.	Features
+
+High anonymity: In Bitcoin transactions, all transaction data will be recorded in the data block chain, and the whereabouts of the Bitcoin can be seen, so that the receiving and sending parties can be queried. However, Dash uses the technology of anonymous sending and the decentralized network server "master node" to obfuscate transactions, so that transactions cannot be tracked and queried, thereby achieving high anonymity.
+
+Instant delivery: Bitcoin network takes 10 minutes or even hours to confirm the transaction, and Dash can be sent instantly.
+
+Self-management system: Through this system, Dash Network can allocate resources for R&D and marketing through proposals and voting, and any user can create and submit proposals on the network.
+
+1.	Most used link
+
+DASH official website block explorer wallet download DASH forum Twiter Facebook
+
 
 ### EOS (EOS)
-1.什么是EOS？
- 
-EOS (Enterprise Operation System)是由 Block.one公司主导开发的一种全新的基于区块链智能合约平台，旨在为高性能分布式应用提供底层区块链平台服务。EOS 项目的目标是实现一个类似操作系统的支撑分布式应用程序的区块链架构。该架构可以提供账户，身份认证，数据库，异步通信以及可在数以万计的 CPU/GPU群集上进行程序调度和并行运算。EOS最终可以支持每秒执行数百万个交易，同时普通用户执行智能合约无需支付使用费用。
- 
-2.EOS的功能
- 
-EOS代币目前是EOS区块链基础设施发布的基于以太坊的代币，主要有三大应用场景：带宽和日志存储(硬盘)，计算和计算储备(CPU)，状态存储(RAM)。EOS主网上线后会将ERC20代币EOS转换为其主链上的代币。具体可解释为：
- 
-（1）接收方支付：客户从该业务中购买特定产品，而这些产品的销售收入将用于支付业务成本，避免客户直接为使用区块链支付费用，也不会限制或阻止企业确定其产品的货币化策略.
- 
-（2）授权能力：如果一个区块链是基于 EOS 软件系统开发，而其代币是由一个代币持有者所持有，他可能不需要立即消耗全部或部分可用带宽，这样的代币持有者可以选择将未消耗的带宽给予或租给他人。
- 
-（3）将交易成本与代币价值分开：如果应用程序所有者持有相应数量的代币，那么应用程序可以在固定的状态和带宽使用中持续运行。开发人员和用户不会受到代币市场价格波动的影响，因此不会依赖于价格。
- 
-（4）区块奖励：每次生成一个区块时，EOS都会奖励该区块生产者新的代币用于支付其运维成本。目前EOS设定限制了区块生产者所得奖励上限，目前EOS设定给予区块生产者的奖励上限为每年最多5%，即代币新增供应的年总增长不超过5%。
- 
-3.常用链接
+1. What is EOS?
 
-官网：https://eos.io/
+EOS (Enterprise Operation System) is a brand new blockchain-based smart contract platform led by Block.one, which aims to provide underlying blockchain platform services for high-performance distributed applications. The goal of the EOS project is to achieve a blockchain architecture that supports distributed applications similar to an operating system. The architecture can provide accounts, identity authentication, databases, asynchronous communication, and program scheduling and parallel operations on tens of thousands of CPU/GPU clusters. EOS can eventually support the execution of millions of transactions per second, while ordinary users do not need to pay usage fees to execute smart contracts.
 
-白皮书：https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#support-millions-of-users
+2. EOS function
 
-### ETC (以太经典)
-1. 什么是以太经典？
+EOS token is currently an Ethereum-based token issued by the EOS blockchain infrastructure. There are three main application scenarios: bandwidth and log storage (hard disk), calculation and calculation reserve (CPU), and state storage (RAM). After the EOS mainnet goes live, ERC20 token EOS will be converted into tokens on the main chain. It can be explained as:
 
-ETC（Ethereum Classic）是以太坊在1,920,000个块后硬分叉出的分叉币种，功能和以太坊极为类似。ETC秉承去中心化理念，支持区块链保证的共识机制。ETC坚信，区块链一旦开始运行，它的发展方向就不被任何中心团队所左右，而是按照参与整个网络人员的共识和全网算力的共识所决定。
- 
-2016年7月份进行的以太坊区块链硬分叉旨在将被黑客盗窃的The DAO资金转移到一个由投资者掌控的账户，并让旧的交易记录被历史遗忘。大多数以太坊开发者都参与了这次逆转，交易所、创业公司和该生态系统中的其他成员也参与了。几天之后，该项目恢复了常态。但是并非所有人都想将旧的交易记录忘记。于是一小部分矿工继续使用原来的区块链，以此作为一种抗议，他们将硬分叉描述为是对The DAO这个废弃项目的抽资行为。于是Ethereum Classic(ETC)就诞生了。
- 
-2. 详细参数
+(1) Recipient payment: The customer purchases specific products from the business, and the sales revenue of these products will be used to pay for the business cost, avoiding the customer to directly pay for the use of the blockchain, and will not restrict or prevent the company from determining its product Monetization strategy.
 
-中文名：以太经典
+(2) Authorization capability: If a blockchain is developed based on the EOS software system, and its token is held by a token holder, he may not need to consume all or part of the available bandwidth immediately. Such tokens The holder can choose to give or lease the unconsumed bandwidth to others.
 
-英文名：Ethereum Classic 
+(3) Separate transaction costs from token value: If the application owner holds a corresponding number of tokens, then the application can continue to run in a fixed state and bandwidth usage. Developers and users will not be affected by price fluctuations in the token market and therefore will not depend on prices.
 
-英文简称：ETC
+(4) Block reward: Every time a block is generated, EOS will reward the block producer with new tokens to pay for its operation and maintenance costs. The current EOS setting limits the upper limit of rewards for block producers. The current upper limit of rewards set by EOS to block producers is up to 5% per year, that is, the total annual increase in the new supply of tokens does not exceed 5%.
 
-研发者：以太经典团队 
+3. Common links
 
-核心算法：Ethash      
+Official website: https://eos.io/
 
-共识证明：POW
+White paper:
 
-发布日期：2015/11/1  
+https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#support-millions-of-users
 
-区块时间：约15-17秒/块  
 
-代币总量：210,000,000 ETC（首次减产时间为2020年3月17日14:06 (GMT+8)）
+### ETC (Ethereum Classic)
+1.	What is the etheric classic?
 
-主要特色：独立的加密货币
- 
-3. 常用链接
+ETC (Ethereum Classic) is a forked currency that is hard-forked after 1,920,000 blocks, and its function is very similar to Ethereum. ETC upholds the concept of decentralization and supports the consensus mechanism guaranteed by the blockchain. ETC firmly believes that once the blockchain starts to operate, its development direction will not be controlled by any central team, but will be determined by the consensus of the people participating in the entire network and the consensus of the entire network's computing power.
 
-官方网站：https://ethereumclassic.github.io/
+The hard fork of the Ethereum blockchain in July 2016 aimed to transfer the funds of The DAO stolen by hackers to an account controlled by investors and to make old transaction records forgotten by history. Most Ethereum developers participated in this reversal, as did exchanges, startups, and other members of the ecosystem. A few days later, the project returned to normal. But not everyone wants to forget the old transaction records. So a small group of miners continued to use the original blockchain as a protest. They described the hard fork as an act of drawing funds for the abandoned project of The DAO. So Ethereum Classic (ETC) was born.
 
-区块查询：https://etc.tokenview.com/cn
+1.	specification
 
-### ETH (以太坊)
-1.什么是以太坊？
- 
-以太坊（Ethereum）是下一代密码学账本，可以支持众多的高级功能，包括用户发行货币，智能协议，去中心化的交易和设立去中心化自治组织(DAOs)或去中心化自治公司（DACs）。以太坊并不是把每一单个类型的功能作为特性来特别支持，相反，以太坊包括一个内置的图灵完备的脚本语言，允许通过被称为“合同”的机制来为自己想实现的特性写代码。一个合同就像一个自动的代理，每当接收到一笔交易，合同就会运行特定的一段代码，这段代码能修改合同内部的数据存储或者发送交易。高级的合同甚至能修改自身的代码。   
- 
-通俗一点说，以太坊是开源平台数字货币和区块链平台，它为开发者提供在区块链上搭建和发布应用的平台。以太坊可以用来编程、分散、担保和交易任何事物，投票、域名、金融交易所，众筹、公司管理、合同和大部分的协议、知识产权，还有得益于硬件集成的智能资产。
- 
-2017年2月28日，一批代表着石油、天然气行业，金融行业和软件开发公司的全球性企业正式推出企业以太坊联盟（EEA），致力于将以太坊开发成企业级区块链。这些企业包括英国石油巨头BP、摩根大通、软件开发商微软、埃森哲、桑坦德银行、BlockApps、BNY梅隆、芝商所、ConsenSys、英特尔微软和Nuco等。许多企业或组织开发基于以太坊区块链的项目，并发行代币。联合国世界粮食计划署成功使用以太坊区块链向10000难民提供救助。
- 
-2.详细参数
- 
-中文名：以太坊 
+Chinese name: 以太经典
 
-英文名：Ethereum
+English name: Ethereum Classic
 
-英文简称：ETH
+English abbreviation: ETC
 
-研发者：Vitalik Buterin 
+Developer: Ethereum Classic Team
 
-核心算法：Ethash 
+Core algorithm: Ethash
 
-发布日期：2015/3/20
+Proof of consensus: POW
 
-区块时间：约15-17秒/块 
+Release Date: 2015/11/1
 
-区块奖励：5      
+Block time: about 15-17 seconds/block
 
-货币总量：7200万+1872万/年
+Total tokens: 210,000,000 ETC (the first time of production reduction is 14:06 (GMT+8) on March 17, 2020)
 
-主要特色：含数字货币和智能合约等特色功能
- 
-3.常用链接
- 
-官方网站：https://www.ethereum.org/
+Main feature: independent cryptocurrency
 
-区块查询：https://etherscan.io/
+1.	Most used link
+
+Official website: https://ethereumclassic.github.io/
+
+Block query: https://etc.tokenview.com/cn
+
+
+### ETH (Ethereum)
+1. What is Ethereum?
+
+Ethereum is a next-generation cryptographic ledger that can support many advanced functions, including user issuance of currency, smart protocols, decentralized transactions and the establishment of decentralized autonomous organizations (DAOs) or decentralized autonomous companies (DACs) ). Ethereum does not specifically support every single type of function as a feature. On the contrary, Ethereum includes a built-in Turing-complete scripting language that allows you to write the features you want to achieve through a mechanism called "contract" Code. A contract is like an automatic agent. Whenever a transaction is received, the contract will run a specific piece of code, which can modify the data storage within the contract or send the transaction. Advanced contracts can even modify their own code.
+
+In layman's terms, Ethereum is an open source platform digital currency and blockchain platform. It provides developers with a platform for building and publishing applications on the blockchain. Ethereum can be used to program, decentralize, guarantee and trade anything, voting, domain names, financial exchanges, crowdfunding, company management, contracts and most agreements, intellectual property rights, and smart assets that benefit from hardware integration.
+
+On February 28, 2017, a group of global companies representing the oil and gas industry, financial industry and software development companies officially launched the Enterprise Ethereum Alliance (EEA), dedicated to developing Ethereum into an enterprise-level blockchain. These companies include British oil giant BP, JPMorgan Chase, software developers Microsoft, Accenture, Santander, BlockApps, BNY Mellon, CME Group, ConsenSys, Intel Microsoft and Nuco. Many companies or organizations develop projects based on the Ethereum blockchain and issue tokens. The United Nations World Food Program successfully used the Ethereum blockchain to provide relief to 10,000 refugees.
+
+2. Detailed parameters
+
+Chinese name: 以太坊
+
+English name: Ethereum
+
+English abbreviation: ETH
+
+Developer: Vitalik Buterin
+
+Core algorithm: Ethash
+
+Release Date: 2015/3/20
+
+Block time: about 15-17 seconds/block
+
+Block reward: 5
+
+Total currency: 72 million + 18.72 million / year
+
+Main features: including features such as digital currency and smart contracts
+
+3. Common links
+
+Official website: https://www.ethereum.org/
+
+Block query: https://etherscan.io/
+
 
 ### FIL (Filecoin)
-一、项目名称
+1. Project name
 
 FIL (Filecoin)
 
-二、项目定位
+2. Project positioning
 
-Filecoin是一个存储文件的对等网络，具有内置的经济激励机制，可确保随着时间的推移可靠地存储文件。
-在Filecoin中，用户付费将其文件存储在存储矿工上。存储矿工是负责存储文件并证明其已随时间正确存储文件的计算机。任何想要存储其文件或希望因存储其他用户的文件而获得报酬的人都可以加入Filecoin。可用存储空间以及该存储空间的价格不受任何一家公司的控制。相反，Filecoin促进了开放市场来存储和检索任何人都可以参与的文件。
+Filecoin is a peer-to-peer network for storing files with a built-in economic incentive mechanism to ensure reliable storage of files over time. In Filecoin, users pay to store their files on storage miners. Storage miners are computers that are responsible for storing files and proving that they have stored files correctly over time. Anyone who wants to store their files or want to get paid for storing other users' files can join Filecoin. The available storage space and the price of that storage space are not controlled by any one company. Instead, Filecoin promotes an open market to store and retrieve files that anyone can participate in.
 
-Filecoin包括区块链和本机加密货币（FIL）。存储矿工通过存储文件赚取FIL单位。 Filecoin的区块链记录要发送和接收FIL的交易，以及来自存储矿工的证明，证明他们正确存储了文件。
+Filecoin includes blockchain and native cryptocurrency (FIL). Storage miners earn FIL units by storing files. Filecoin's blockchain records the transactions to send and receive FIL, as well as proofs from storage miners, proving that they stored the files correctly.
 
-三、币概况与分配
+Three, currency overview and distribution
 
-•	代币总量：2,000,000,000 FIL
+• Total tokens: 2,000,000,000 FIL
 
-•	矿工：70%
+• Miners: 70%
 
-•	团队：15%
+• Team: 15%
 
-•	投资人：10%
+• Investor: 10%
 
-•	基金会：5%
+• Foundation: 5%
 
-四、常用链接
+Four, commonly used links
 
-•	官方网址：https://filecoin.io/
+• Official website: https://filecoin.io/
 
-•	白皮书：https://filecoin.io/filecoin.pdf
+• White paper: https://filecoin.io/filecoin.pdf
 
-•	区块浏览器：https://filfox.info/
+• Block explorer: https://filfox.info/
 
-•	Twitter: https://twitter.com/Filecoin
+• Twitter: https://twitter.com/Filecoin
 
-### LTC (莱特币)
-1.什么是莱特币？
- 
-莱特币诞生于2011年11月9日，被称为是“数字白银”。莱特币在技术上和比特币具有相同的实现原理。它是第一个基于Scrypt算法的网络数字货币，与比特币相比，莱特币拥有更快的交易确认时间，更高的网络交易容量和效率。莱特币现在拥有完整的产业链，充分的流动性，足以证明其是成熟、安全、稳定的商用金融系统。
- 
-2.数据块链
- 
-莱特币数据块链与其竞争者——比特币相比起来，能够处理更大的交易量。由于数据块的产出更加频繁，该网络可以支持更多的交易，并且在将来无需修改软件。 
-因此，商家可以获得更快的交易确认，而且在销售大额商品时依然能够等待更多的交易确认。
- 
-3.钱包加密
- 
-钱包加密能够保证您钱包中私钥的安全，从而让您可以查看交易情况及账户余额，但是在您使用莱特币之前必须输入密码。该功能不仅能够防止病毒及木马的侵扰，同时还是支付之前，一项合法性的有效检查。
- 
-4.挖矿奖励
- 
-“矿工们”目前每数据块可以产出25个莱特币。每4年，生产的莱特币货币量将减少一半(每经过840000个数据块)。 
-因此，莱特币网络生产的货币总量将是比特币的4倍，即8400万个莱特币。
- 
-莱特币的创造和转让基于一种开源的加密协议，不受任何中央机构的管理。莱特币旨在改比特币，与其相比，莱特币具有三种显著差异：
- 
-（1）莱特币网络每2.5分钟（而不是10分钟）就可以处理一个块，因此可以提供更快的交易确认。
- 
-（2）莱特币网络预期产出8400万个，是比特币网络发行货币量的四倍之多。
- 
-（3）莱特币在其工作量证明算法中使用了由Colin Percival首次提出的scrypt加密算法。
- 
-2017年4 月，莱特币社区经过投票达成协议，决定通过隔离验证软分叉对其区块链进行升级。同年6月，莱特币闪电网络正式上线。
- 
-5.详细参数
- 
-中文名：莱特币
 
-英文名：Litecoin
+### LTC (Litecoin)
+1. What is Litecoin?
 
-英文简称：LTC
- 
-研发者：Charlie Lee     
+Litecoin was born on November 9, 2011 and is called "digital silver". Litecoin has the same implementation principle as Bitcoin technically. It is the first network digital currency based on the Scrypt algorithm. Compared with Bitcoin, Litecoin has a faster transaction confirmation time, higher network transaction capacity and efficiency. Litecoin now has a complete industrial chain and sufficient liquidity to prove that it is a mature, safe and stable commercial financial system.
 
-核心算法：Scrypt       
+2. Data Block Chain
 
-发布日期：2011/10/7
- 
-区块时间：150秒/块   
+Compared with its competitor, Bitcoin, the Litecoin data block chain can handle a larger transaction volume. Since the output of data blocks is more frequent, the network can support more transactions, and there is no need to modify the software in the future. Therefore, merchants can obtain faster transaction confirmations and can still wait for more transaction confirmations when selling large-value commodities.
 
-发行总量：8400万      
+3. Wallet encryption
 
-减半时间：4年
- 
-共识证明：POW       
+Wallet encryption can ensure the security of the private key in your wallet, so that you can view the transaction status and account balance, but you must enter the password before you can use Litecoin. This function can not only prevent the intrusion of viruses and Trojan horses, but also an effective check for legality before payment.
 
-难度调整：2016个区块  
+4. Mining rewards
 
-区块奖励：最初50LTC，当前25LTC
- 
-主要特色：发行量大：发行量是比特币的4倍；交易快速：确认时间仅2.5分钟；隔离验证激活
- 
-不足之处：莱特币相关应用还较少
- 
-风险：隔离验证激活后，网络漏洞的风险
- 
-6.常用链接
- 
-官方网站：https://litecoin.org/
- 
-区块查询：http://explorer.litecoin.net/
+"Miners" currently produce 25 Litecoins per data block. Every 4 years, the amount of Litecoin currency produced will be reduced by half (every 840,000 data blocks passed). Therefore, the total amount of money produced by the Litecoin network will be 4 times that of Bitcoin, or 84 million Litecoins.
+
+The creation and transfer of Litecoin is based on an open source encryption protocol and is not subject to the management of any central authority. Litecoin aims to change Bitcoin. Compared with it, Litecoin has three significant differences:
+
+(1) The Litecoin network can process a block every 2.5 minutes (instead of 10 minutes), so it can provide faster transaction confirmation.
+
+(2) The expected output of the Litecoin network is 84 million, which is four times the amount of currency issued by the Bitcoin network.
+
+(3) Litecoin uses the scrypt encryption algorithm first proposed by Colin Percival in its proof of work algorithm.
+
+In April 2017, the Litecoin community voted to reach an agreement and decided to upgrade its blockchain through an isolated verification soft fork. In June of the same year, the Litecoin Lightning Network was officially launched.
+
+5. Detailed parameters
+
+Chinese name: 莱特币
+
+English name: Litecoin
+
+English abbreviation: LTC
+
+Developer: Charlie Lee
+
+Core algorithm: Scrypt
+
+Release Date: 2011/10/7
+
+Block time: 150 seconds/block
+
+Total issuance: 84 million
+
+Halving time: 4 years
+
+Proof of consensus: POW
+
+Difficulty adjustment: 2016 blocks
+
+Block reward: initially 50LTC, current 25LTC
+
+Main features: large circulation: 4 times that of Bitcoin; fast transaction: confirmation time is only 2.5 minutes; isolation verification activation
+
+Disadvantages: Litecoin related applications are still less
+
+Risk: After the isolation verification is activated, the risk of network vulnerabilities
+
+6. Common links
+
+Official website: https://litecoin.org/
+
+Block query: http://explorer.litecoin.net/
+
 
 ### USDT (Tether)
-1.什么是USDT
+1. What is USDT
 
-USDT是Tether公司推出的基于稳定价值货币美元（USD）的代币Tether USD（下称USDT），1USDT=1美元，用户可以随时使用USDT与USD进行1:1兑换。Tether公司严格遵守1:1准备金保证，即每发行1个 USDT 代币，其银行账户都会有1美元的资金保障。用户可以在 Tether 平台进行资金查询，以保障透明度。用户可以通过SWIFT电汇美元至Tether公司提供的银行帐户，或通过交易所换取USDT。赎回美元时，反向操作即可。用户也可在交易所用比特币换取USDT。
- 
-USDT是在比特币区块链上发布的基于Omni Layer协议的数字资产。USDT最大的特点是，它与同数量的美元是等值的。USDT被设计为法币在数字网络上的复制品，使之成为波动剧烈的加密货币市场中良好的保值代币。
- 
-2.特点
+USDT is a token Tether USD (hereinafter referred to as USDT) based on the stable value currency U.S. dollar (USD) launched by Tether. 1USDT = 1 U.S. dollar. Users can use USDT to exchange 1:1 with USD at any time. Tether strictly abides by the 1:1 reserve guarantee, that is, for every USDT token issued, its bank account will have 1 USD fund guarantee. Users can check funds on the Tether platform to ensure transparency. Users can wire US dollars through SWIFT to the bank account provided by Tether, or exchange USDT through the exchange. When redeeming USD, the reverse operation is sufficient. Users can also exchange bitcoins for USDT on the exchange.
 
-直观： USDT与美元是等值的，1USDT=1美元。每个币种=多少USDT，也就相当于是它的单价是多少美元。
- 
-稳定：因为泰达币是由法币支撑的，用户可以在不受多数区块链资产价格波动影响的情况下仍然在区块链资产市场上进行交易。
- 
-透明： 泰达币的发行公司Tether 声称其法币储存账户有定期审计以确保市面流通的每一枚泰达币有对应的一美元为支撑。储存账户状态是公开的，可以随时查询到。此外，所有的泰达币交易记录都会公布在公链上。
- 
-小额交易费用： 在Tether账户间交易或者在储存有泰达币的钱包间交易都不收手续费。将泰达币转换为法定货币时需要收取交易服务费。
- 
-3.常用链接
+USDT is a digital asset based on the Omni Layer protocol released on the Bitcoin blockchain. The biggest feature of USDT is that it is equivalent to the same amount of US dollars. USDT is designed as a copy of legal currency on the digital network, making it a good value-preserving token in the volatile cryptocurrency market.
 
-官方网站: https://tether.to/
+2. Features
 
-区块查询: https://www.omniexplorer.info/
+Intuitive: USDT and US dollars are equivalent, 1USDT=1 US dollar. Each currency = how many USDT, which is equivalent to its unit price in US dollars.
 
-### XMR (Monero)
-一、 项目名称
+Stability: Because TEDA is backed by legal currency, users can still trade on the blockchain asset market without being affected by the price fluctuations of most blockchain assets.
 
-门罗币  (XMR)
- 
-二、项目定位
+Transparency: Tether, the issuing company of TEDA coins, claims that its legal currency storage accounts are regularly audited to ensure that every TEDA coin in circulation on the market is backed by a corresponding dollar. The status of the storage account is public and can be queried at any time. In addition, all TEDA coin transaction records will be published on the public chain.
 
-门罗币（Monero）使用加密来屏蔽发送和接收地址以及交易金额, 与其他公共区块链像比特币和以太坊不同。
- 
-默认情况下，每个门罗币交易都会混淆发送和接收地址以及交易金额。门罗币是可以替代的。这意味着门罗币将永远被接受而没有审查风险。
- 
-门罗不是一家公司。它由来自世界各地的加密学和分布式系统专家开发，他们捐赠时间或由社区捐赠资助。这意味着门罗不能被任何一个国家关闭，也不受任何特定法律管辖区的限制。
- 
-三、币概况与分配
+Small transaction fees: There are no fees for transactions between Tether accounts or transactions between wallets with Tether coins. A transaction service fee is required to convert TEDA coins into legal tender.
 
-代币总量： 约1600万 XMR + 工矿
+3. Common links
 
-流通数量： 100%
- 
-四、常用链接
+Official website: https://tether.to/
 
-项目网站:   https://getmonero.org
+Block query: https://www.omniexplorer.info/
 
-区块查询:    https://xmrchain.net ; https://moneroblocks.info ;  https://moneroexplorer.com
 
-其他：https://www.reddit.com/r/Monero
+### XMR (Currency)
+1. Project name
+
+Monero (XMR)
+
+2. Project positioning
+
+Monero uses encryption to block sending and receiving addresses and transaction amounts, which is different from other public blockchains like Bitcoin and Ethereum.
+By default, every Monero transaction will confuse the sending and receiving addresses and the transaction amount. Monero is replaceable. This means that Monero will always be accepted without the risk of censorship.
+
+Monroe is not a company. It is developed by cryptography and distributed system experts from all over the world, who donate time or are funded by community donations. This means that Monroe cannot be closed by any country, nor is it restricted by any specific legal jurisdiction.
+
+Three, currency overview and distribution
+
+Total tokens: about 16 million XMR + mining
+
+Circulation quantity: 100%
+
+Four, commonly used links
+
+Project website: https://getmonero.org
+
+Block query: https://xmrchain.net ; https://moneroblocks.info ; https://moneroexplorer.com
+
+Other: https://www.reddit.com/r/Monero
+
 
 ### XRP (Ripple)
-1.什么是Ripple (XRP)？
- 
-瑞波币（Ripple/XRP）提供一个无阻碍的利用区块链技术的全球支付网络，是世界上第一个开放的支付网络，通过加入Ripple正在成长的全球支付网络可以转账任意一种货币，包括美元、欧元、人民币、日元或者比特币，简便易行快捷，交易确认在几秒以内完成，交易费用几乎是零，没有所谓的跨行异地以及跨国支付费用。 Ripple是开放源码的点到点支付网络，它可以使任何机构或个人轻松、廉价并安全的把金钱转账到互联网上的任何机构或个人，无论在世界的哪个地方。Ripple是p2p软件，没有任何个人、公司，或政府操控，任何人可以创建一个ripple账户。
- 
-自2017年5月以来，瑞波的验证者网络已经扩大了140%，达到了55个参与者，其中包括WorldLink、Telindus-Proximus集团、微软、MIT、CGI、瑞典ISP、Bahnhof以及数据中心和系统整合服务提供商AT TOKYO等。而所有这些参与者现都正在维护着XRP分类账本（此前成为瑞波共识账本）的完整性，运行软件帮助其对交易结算订单达成一致。
- 
-2.特点
- 
-瑞波币是ripple系统中唯一的通用货币，其不同于ripple系统中的其他货币，其他货币比如CNY、USD不能跨网关提现的，换句话说，A网关发行的CNY只能在A网关提现，若想在B网关提现，必须通过ripple系统的挂单功能转化为B网关的CNY才可以到B网关提现。而瑞波币完全没有这方面的限制，它在ripple系统内是通用的。
- 
-3.详细参数
- 
-中文名：瑞波币    
+1. What is Ripple (XRP)?
 
-英文名：Ripple   
+Ripple/XRP provides an unimpeded global payment network using blockchain technology. It is the world’s first open payment network. By joining Ripple’s growing global payment network, any currency can be transferred, including U.S. dollars, euros, renminbi, yen or bitcoin are simple and fast. Transaction confirmation is completed within a few seconds. Transaction costs are almost zero. There are no so-called cross-bank or cross-border payments. Ripple is an open source point-to-point payment network, which allows any institution or individual to easily, cheaply and securely transfer money to any institution or individual on the Internet, no matter where in the world. Ripple is a p2p software, there is no individual, company, or government control, anyone can create a ripple account.
 
-英文简称：XRP
+Since May 2017, Ripple’s validator network has expanded by 140% to 55 participants, including WorldLink, Telindus-Proximus Group, Microsoft, MIT, CGI, Swedish ISP, Bahnhof, and data center and system integration Service provider AT TOKYO, etc. All these participants are now maintaining the integrity of the XRP ledger (previously known as the Ripple Consensus Ledger), and running software to help them reach an agreement on transaction settlement orders.
 
-研发者：Ripple Labs   
+2. Features
 
-核心算法：OpenCoin原创算法 
+Ripple is the only universal currency in the Ripple system. It is different from other currencies in the Ripple system. Other currencies such as CNY and USD cannot be withdrawn across gateways. In other words, the CNY issued by Gateway A can only be withdrawn on Gateway A. If you want to withdraw cash at Gateway B, you must use the pending order function of the ripple system to convert to the CNY of Gateway B before you can withdraw at Gateway B. Ripple has no restrictions in this respect, and it is universal in the ripple system.
 
-发布日期：2011-04-18   
+3. Detailed parameters
 
-区块时间：秒到     
+Chinese name: 瑞波币
 
-区块奖励：货币总量  1000亿     
+English name: Ripple
 
-流通量：358.3亿（截止时间：2017.11.06）
+English abbreviation: XRP
 
-主要特色：Google旗下投资，去中心化交易功能已经实现，实际应用前景好
+Developer: Ripple Labs
 
-不足之处：技术有待完善，XRP分发有待出方案
- 
-4.常用链接
- 
-项目官网：https://ripple.com/
+Core algorithm: OpenCoin original algorithm
 
-区块链浏览器：https://bithomp.com/
+Release Date: 2011-04-18
+
+Block time: second to
+
+Block reward: total currency 100 billion
+
+Circulation: 35.83 billion (Deadline: 2017.11.06)
+
+Main features: Google's investment, decentralized transaction function has been realized, and the practical application prospect is good
+
+Weaknesses: technology needs to be improved, XRP distribution needs to be formulated
+
+4. Common links
+
+Project official website: https://ripple.com/
+
+Blockchain browser: https://bithomp.com/
+

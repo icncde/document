@@ -1,19 +1,17 @@
-### 充值未到账怎么办？
+### What should I do if the recharge has not arrived?
 
-区块链资产转账分为**提出**—**区块确认**—**入账**三个步骤。
-1. 提出：转账成功代表提币的平台或钱包进行了转账操作；
-2. 区块确认：完成对应的网络区块确认，如果区块链拥堵、延迟等情况会导致您的币迟迟没有完成全部确认，会延迟到账，请耐心等待。一般数字货币区块确认完成大概需要10-30分钟。
-3. 入账：完全确认后，平台即会尽快完成入账。
-若区块未完全确认，请您耐心等待，只有确认完毕，平台才能为您入账。
-若区块已完全确认，但ICNCDE账户却一直没有到账，请联系在线客服或提交工单处理。
+Blockchain asset transfer is divided into three steps : **proposal** - **block confirmation** - **entry** .
+1. Propose: Successful transfer means that the platform or wallet withdrawing money has performed the transfer operation;
+2. Block confirmation: Complete the confirmation of the corresponding network block. If the block chain is congested, delayed, etc., your coins will not be fully confirmed and will be delayed. Please wait patiently. Generally, it takes about 10-30 minutes to confirm the digital currency block.
+3. Deposit: Once fully confirmed, the platform will complete the deposit as soon as possible. If the block is not fully confirmed, please wait patiently. Only after the confirmation is completed, the platform can credit for you. If the block has been fully confirmed, but the ICNCDE account has not been received, please contact online customer service or submit a work order for processing.
 
-### 提现未到账怎么办？
+### What should I do if the withdrawal is not received?
 
-提现转账分为三个环节：**ICNCDE交易所出账**-**区块确认**-**对方上帐**。
-1. 出账：我们会在30-60分钟内生成TXID，也就代表我们平台的转账处理已经完毕，已经将币转入了区块链。
-2. 区块确认：请点击TXID未尾的“检查”链接，打开相应的区块链浏览器检查该提现的确认数。
-3. 对方上账：如区块链显示正在确认或者未确认，请您耐心等待区块链确认完毕。如区块链显示确认完毕，如果您还不能收到币，由于ICNCDE交易所已经完成转币，所以我们无法再提供帮助，请联系对应的收币地址平台为您上账。
+Withdrawal and transfer are divided into three stages : **ICNCDE exchange payment** - **block confirmation** - **counterparty posting** .
+1. Payment: We will generate TXID within 30-60 minutes, which means that the transfer processing of our platform has been completed and the currency has been transferred to the blockchain.
+2. Block confirmation: Please click on the "check" link at the end of TXID and open the corresponding blockchain browser to check the number of confirmations for the withdrawal.
+3. The other party submits the account: If the blockchain shows that it is confirming or not confirming, please wait patiently for the confirmation of the blockchain. If the blockchain shows that the confirmation is complete, if you still cannot receive the currency, since the ICNCDE exchange has completed the currency transfer, we can no longer provide assistance. Please contact the corresponding currency receiving address platform to post your account.
 
-### 提现限额问题：一天能提多少？
+### Withdrawal limit question: how much can I withdraw in a day?
 
-限额可在“资金账户”—“提币”右上角会有tips说明，提币操作的时候可以注意一下。
+The limit can be explained by tips in the upper right corner of "Fund Account"-"Withdrawal", you can pay attention to it when withdrawing coins.

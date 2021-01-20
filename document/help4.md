@@ -1,41 +1,45 @@
-### Google认证操作说明
-Google认证可以更好的保障您的账户资金安全，ICNCDE建议开启
+### Google authentication instructions
+Google authentication can protect the security of your account fundsbetter, ICNCDE recommends it to be opened
 
-1、登录ICNCDE官网进入首页，点击右上角头像，选择【身份认证】按钮，进入Google认证
+1. Log in to the ICNCDE official website to enter the homepage, click on the avatar in the upper right corner, and select the [Identification] button to enter Google authentication
 
-2、按照页面流程操作提示完成Google认证
+2. Follow the instructions on the page to complete the Google authentication
 
-![Google认证](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/google1.png "Google认证")
 
-### 实名认证流程
-1、登录ICNCDE官网进入首页，点击右上角头像，选择【身份认证】按钮，进入实名认证
+![](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/google1-en.png "")
 
-2、实名认证共有3个级别，每个认证级别对应不同的等级权益
+### Real-name authentication process
+1. Log in to the ICNCDE official website to enter the homepage, click on the avatar in the upper right corner, and select the [Identity Authentication] button to enter the real-name authentication
 
-级别1认证主要是基本信息验证，包括：手机、邮箱、证件类别、对应的证件号
+2. There are 3 levels of real-name authentication, and each certification level corresponds to a different level of rights
 
-级别2认证主要是高级信息验证，包括：上传手持证件正反面的照片
+Level 1 authentication is mainly basic information verification, including: mobile phone, email, certificate type, and corresponding certificate number
 
-级别3认证主要是视频信息验证，即根据网站要求，上传录制的视频（目前pc端不支持视频验证，您可在ICNCDE首页扫码下载APP完成视频验证）
+Level 2 authentication is mainly advanced information verification, including: uploading photos of the front and back of the handheld ID
 
-3、实名认证等级权益说明
+Level 3 authentication is mainly video information verification, that is, uploading recorded videos according to website requirements (currently PC does not support video verification, you can scan the QR code on the ICNCDE homepage to download the APP to complete the video verification)
 
-![实名认证等级权益说明](http://icnm.oss-ap-southeast-1.aliyuncs.com/md/google2.png "实名认证等级权益说明")
+3. Description of real-name certification level rights
 
-### 手机/邮箱绑定
-1、登录ICNCDE官网 www.icncde.com 进入首页，点击右上角头像，选择【身份认证】按钮，进入绑定手机或绑定邮箱，点击绑定
 
-2、根据注册时，已经选择了手机/邮箱的注册方式，故用户在绑定手机/邮箱时，需要输入注册时的手机/邮箱验证码
+![](https://icnm.oss-ap-southeast-1.aliyuncs.com/md/google2-en.png "")
 
-3、手机绑定：输入邮箱验证码--输入手机号--输入手机验证码--完成
+### Mobile phone/email binding
+1. Log in to ICNCDE's official website www.icncde.com to enter the homepage, click on the avatar in the upper right corner, select the [Identity Authentication] button, enter the bound mobile phone or bound email, and click bind
 
-邮箱绑定：输入手机验证码--输入邮箱--输入邮箱验证码--完成
+2. According to the registration method, the mobile phone/email has been selected, so when binding the mobile phone/email, the user needs to enter the mobile phone/email verification code during registration
 
-### 修改已绑定的手机/邮箱
-1、登录ICNCDE官网www.icncde.com进入首页，点击右上角头像，选择【身份认证】按钮，进入绑定手机或绑定邮箱，点击修改已绑定的手机/邮箱
+3. Mobile phone binding: enter the email verification code-enter the mobile phone number-enter the mobile phone verification code-complete
 
-2、修改已绑定的手机/邮箱需要账号同时绑定手机和邮箱，如果有一项还未绑定需要先绑定手机或邮箱
+E-mail binding: enter the mobile phone verification code-enter the email address-enter the email verification code-complete
 
-3、修改已绑定的手机：输入邮箱验证码--输入手机号--输入手机验证码--完成（手机号为需要绑定的新手机号）
 
-修改已绑定的邮箱：输入手机验证码--输入邮箱--输入邮箱验证码--完成（邮箱为需要绑定的新邮箱）
+### Modify the bound mobile phone/email
+1. Log in to the ICNCDE's official website www.icncde.comto enter the homepage, click on the avatar in the upper right corner, select the [Identity Authentication] button, enter the bound mobile phone or bound email, and click to modify the bound mobile phone/email
+
+2. To modify the bound mobile phone/email, the account needs to be bound to the mobile phone and email at the same time. If one item has not been bound, the mobile phone or email must be bound first
+
+3. Modify the bound mobile phone: enter the email verification code-enter the mobile phone number-enter the mobile phone verification code-complete (the mobile phone number is the new mobile phone number that needs to be bound)
+
+Modify the bound email: enter the mobile phone verification code - enter the email - enter the email verification code - complete (the email is the new email that needs to be bound)
+

@@ -1,384 +1,519 @@
-### 风险提示
-为了使您更好的了解交易中的风险，根据有关法律法规、行政规章及相关国家政策，特向您对杠杆交易或保证金交易的风险进行提示，请您认真详细阅读。您在本网站进行杠杆交易或保证金的风险包括但不限于：
+### Risk warning
+In order to enable you to better understand the risks in trading, according to relevant laws and regulations, administrative regulations and relevant national policies, we will remind you of the risks of leveraged trading or margin trading. Please read it carefully. The risks of your margin trading or margin trading on this website include but are not limited to:
 
-⑴ 数字资产本身的风险：数字资产市场是全新的、未经确认的，而且可能不会增长。目前，数字资产主要由投机者大量使用，零售和商业市场使用相对较少。因此，数字资产价格易产生波动，并进而对数字资产投资产生不利影响。数字资产市场没有像股市那样的涨跌停限制，同时交易是24小时开放的。数字资产由于筹码较少，价格易受到庄家控制以及全球政府政策的影响而大幅波动，有可能出现一天价格涨几倍的情况，同时也可能出现一天内价格跌去一半的情况。因数字资产本身给您造成的经济损失全部由您自行承担。
+⑴ The risks of digital assets: The digital asset market is new, unconfirmed, and may not grow. At present, digital assets are mainly used by speculators in large numbers, and relatively few in retail and commercial markets. Therefore, the price of digital assets is prone to volatility, which in turn has an adverse effect on digital asset investment. The digital asset market does not have the same price limit as the stock market, and trading is open 24 hours a day. Due to the small number of chips, the price of digital assets is susceptible to the influence of market makers and global government policies. The price may increase several times a day, and the price may fall by half in a day. All the economic losses caused to you by the digital asset itself shall be borne by you.
 
-⑵ 政策风险：因各国法律、法规和规范性文件的制定或者修改，数字资产交易随时可能被暂停、或被禁止。因国家法律、法规和规范性文件的制定或者修改，导致数字资产的交易被暂停、或者被禁止所造成的经济损失全部由您自行承担。
+⑵ Policy risk: Due to the formulation or modification of laws, regulations and regulatory documents of various countries, digital asset transactions may be suspended or prohibited at any time. The economic losses caused by the suspension or prohibition of digital asset trading due to the formulation or modification of national laws, regulations and regulatory documents shall be borne by you.
 
-⑶ 互联网及技术风险：本网站不能保证本网站包含的全部信息、程序、文本等完全安全，不受任何病毒、木马等恶意程序的干扰和破坏，故您登陆、使用本网站任何服务或下载及使用该下载的任何程序、信息、数据等均是您个人的决定并自行承担风险及可能产生的损失。同时使用互联网形式的交易系统亦存有风险，包括但不限于软件，硬件和互联网连接的失败等。由于本网站不能控制互联网的可靠性和可用性，本网站不会对失真，延误和连接失败而承担任何责任。
+⑶ Internet and technical risks: This website cannot guarantee that all the information, programs, texts, etc. contained in this website are completely safe, and will not be interfered or destroyed by any malicious programs such as viruses, Trojan horses, etc., so you log in, use any service or download and Any use of the downloaded programs, information, data, etc. is your personal decision and you bear your own risks and possible losses. At the same time, there are risks associated with the use of Internet-based trading systems, including but not limited to the failure of software, hardware, and Internet connection. Since this website cannot control the reliability and availability of the Internet, this website will not be liable for distortion, delays and connection failures.
 
-⑷ 不可抗力风险：本网站对由于信息网络设备维护、信息网络连接故障、电脑、通讯或其他系统的故障、电力故障，遭遇黑客攻击、天气原因、意外事故、罢工、劳动争议、暴乱、起义、骚乱、生产力或生产资料不足、火灾、洪水、风暴、爆炸、战争、银行或其他合作方原因、数字资产市场崩溃、政府行为、司法或行政机关的命令、其他不在本网站可控范围内或本网站无能力控制的行为或第三方的原因而造成的不能服务或延迟服务，以及造成的您的损失，本网站不承担任何责任。
+⑷ Force majeure risk: This website is responsible for the maintenance of information network equipment, information network connection failures, computer, communication or other system failures, power failures, hacker attacks, weather reasons, accidents, strikes, labor disputes, riots, uprisings, riots , Insufficient productivity or production materials, fire, flood, storm, explosion, war, bank or other partner reasons, digital asset market collapse, government actions, judicial or administrative orders, others are not within the control of this website or this website This website does not bear any responsibility for the inability to service or delayed service caused by behaviors that are incapable of control or the reasons of a third party, as well as your losses.
 
-⑸ 行情风险：本网站不保证有关行情分析、市场评析等内容的正确性和适用性，对于您已经或将会从介绍人或其他任何机构及雇员处获得的资讯或建议，本网站不能控制，也不支持或担保其关于交易的准确性或完备性，由此导致的一切风险由您本人自行承担，本网站不承担任何责任。
+⑸ Market risk: This website does not guarantee the correctness and applicability of relevant market analysis, market analysis and other content. This website cannot control the information or suggestions you have or will obtain from the introducer or any other organization or employee. Nor does it endorse or guarantee the accuracy or completeness of the transaction. All risks arising therefrom are borne by you, and this website does not assume any responsibility.
 
-⑹ 被查封、冻结风险：当有权机关出示相应的调查文件要求本网站配合对您在本网站的账户进行调查时，或对您的账户采取查封、冻结或者划转措施时，本网站将按照有权机关的要求协助提供您的相应数据，或进行相应的操作，因此而造成的隐私泄露、账户不能操作及损失等，本网站不承担任何责任。
+⑹ Risk of being blocked or frozen: When the competent authority presents corresponding investigation documents and requires this website to cooperate in investigating your account on this website, or when you take measures to seal, freeze or transfer your account, this website will follow This website does not assume any responsibility for privacy leakage, account inoperability and losses caused by the request of the competent authority to assist in providing your corresponding data or performing corresponding operations.
 
-⑺ 市场风险：投资收益的多少和市场有着密切的联系，比如经济景气与否、国际经济情况的变化等，这些都是投资理财风险，而且几乎所有的投资资产都会受到市场的影响。由于市场风险造成的经济损失全部由您自行承担，本网站不承担任何责任。
+⑺ Market risk: The amount of investment income is closely related to the market, such as economic prosperity, changes in international economic conditions, etc. These are investment and financial management risks, and almost all investment assets will be affected by the market. All economic losses caused by market risks are borne by you, and this website does not assume any responsibility.
 
-⑻ 流动性风险：当理财用户碰上紧急情况需要用钱，可能面临无法提前赎回理财资金或按照不利的市场价格变现以致亏损的风险。尤其是固定收益率借贷方式，由于有固定的投资期限，想要在此期间取出并不容易，即便能取出，那之前的应计收益也可能无法兑现。建议投资者投资理财前一定要留足应急资金，以免造成不必要的损失。由此导致的一切损失由您本人自行承担，本网站不承担任何责任。
+⑻ Liquidity risk: When a wealth management user needs to spend money in an emergency, he may face the risk of not being able to redeem the wealth management funds in advance or realizing it at an unfavorable market price, resulting in a loss. Especially the fixed-yield lending method, because of the fixed investment period, it is not easy to withdraw during this period. Even if it can be withdrawn, the previous accrued income may not be realized. It is recommended that investors must reserve sufficient emergency funds before investing in financial management to avoid unnecessary losses. All losses caused by this shall be borne by you, and this website does not bear any responsibility.
 
-⑼ 其他风险：由于您丢失账户、忘记密码、操作不当，投资决策失误等原因导致您发生亏损；网上委托，他人进行恶意操作而造成的损失；委托他人代理您进行本网站的杠杆交易或理财造成的损失；其他意外事件以及非因本网站原因造成的损失等；上述损失都将由您自行承担。
+⑼ Other risks: loss due to loss of your account, forgotten password, improper operation, mistakes in investment decisions, etc.; losses caused by online entrustment and malicious operations by others; losses caused by entrusting others to conduct leveraged transactions or financial management on this website on your behalf Losses; other accidents and losses not caused by this website; the above losses will be borne by you.
 
-⑽ 特别提示：您参与本网站杠杆交易或保证金交易时，应当自行控制风险，评估数字资产投资价值和投资风险，并承担损失全部投资的经济风险；您应当根据自身的经济条件和风险承受能力进行交易，并清醒地认识到数字资产投资存在的风险。您在进行数字资产杠杆投资时既存在盈利的可能，也存在亏损的风险。
+⑽ Special reminder: When you participate in leveraged trading or margin trading on this website, you should control your own risks, evaluate the investment value and investment risk of digital assets, and bear the economic risk of losing all your investment; you should do so according to your own economic conditions and risk tolerance Trade and clearly recognize the risks of digital asset investment. When you make a leveraged investment in digital assets, there is both the possibility of profit and the risk of loss.
 
-本风险提示并不能揭示数字资产杠杆交易和保证金交易的全部风险，请您务必对此有清醒的认识，交易有风险，投资需谨慎。
+This risk warning does not reveal all the risks of digital asset leveraged trading and margin trading. Please be aware of this. There are risks in trading and investment needs to be cautious.
 
-交易有风险，投资需谨慎
+Trading is risky, investment needs to be cautious
 
-### 免责声明
-Icncde运营网站https://www.icncde.com 提供的移动应用程序和交易所服务（以下称“本网站”或“网站”）。为了本协议表述之方便，该网站及相关程序在本协议中合称使用“我们”或其他第一人称称呼。
 
-本协议全部内容均为爱沙尼亚法律而订立，其成立、解释、内容及执行均适用爱沙尼亚相关法律规定；任何因与本协议约定的服务有关而产生的索赔或诉讼，都应依照爱沙尼亚的法律进行管辖并加以解释和执行。
+### Disclaimer
+Icncde operates the mobile application and exchange services provided by the website https://www.icncde.com (hereinafter referred to as "this website" or "website"). For the convenience of the expression of this agreement, the website and related programs collectively use "we" or other first-person address in this agreement.
 
-为避免疑义，这一条款明确适用于任何针对我们的侵权索赔。任何针对我们或者和我们有关的索赔或诉讼的管辖法院或诉讼地均在爱沙尼亚。您无条件地获得在爱沙尼亚法院进行诉讼和上诉的排他性的管辖权。您也无条件地同意与本协议有关的争议或问题或产生的任何索赔请求和诉讼的发生地或法院均排他性地在爱沙尼亚，如有本网站其他业务对管辖有专门约定的，从其约定。不方便法院的原则不适用于根据本服务条款选择的法院。
+The entire content of this agreement is made under the laws of Estonia, and its establishment, interpretation, content and execution are subject to the relevant laws and regulations of Estonia; any claims or litigation arising from the services agreed in this agreement shall be governed by the laws of Estonia And to explain and implement.
 
-同时本网站的宗旨是在不违反爱沙尼亚相关法律法规的前提下，尽可能地为全球广大数字资产爱好者及用户提供专业、安全、可信赖的数字资产交易及资产管理服务。但您所在国家或地区属于监管明确禁止数字资产交易的法律或外汇管制国家，同时对投资境外金融产品有明确限制及规定的国家，您应禁止使用本网站项下的服务。
+For the avoidance of doubt, this clause clearly applies to any infringement claims against us. Any court of jurisdiction or venue for any claims or litigation against us or related to us is in Estonia. You are unconditionally granted exclusive jurisdiction for litigation and appeals in Estonian courts. You also unconditionally agree that any disputes or issues related to this agreement or any claims and litigation arising from the place or the court shall be exclusively in Estonia. If there is a special agreement on jurisdiction for other businesses of this website, the agreement shall be followed. The principle of inconvenience to courts does not apply to courts selected in accordance with these terms of service.
 
-通过浏览、访问或使用www.icncde.com以及我们提供的移动应用程序和交易所服务的自然人或其他主体均为本站的用户，为本协议表述之便利，以下使用“您”或其他第二人称。为了本协议表述之便利，我们和您在本协议中合称为“双方”，我们或您单称为“一方”。 本网站所有内容，为便利用户，可能提供多个语言版本，若有冲突或遗漏等情况，以中文版本为准。
+At the same time, the purpose of this website is to provide professional, safe and reliable digital asset trading and asset management services to the majority of digital asset lovers and users around the world without violating the relevant laws and regulations of Estonia. However, your country or region belongs to a country that has laws or foreign exchange controls that specifically prohibit digital asset transactions, and has clear restrictions and regulations on investment in overseas financial products. You should prohibit the use of the services under this website.
+Natural persons or other subjects who browse, visit or use www.icncde.com and the mobile applications and exchange services provided by us are all users of this site. For the convenience of this agreement, the following uses "you" or other second-person pronouns . For the convenience of the expression of this agreement, we and you are collectively referred to as the "two parties" in this agreement, and we or you are solely referred to as the "party". All content on this website may be provided in multiple languages for the convenience of users. In case of conflicts or omissions, the Chinese version shall prevail.
 
-观点，市场数据，建议或任何其他内容会随时更改，恕不另行通知。
+Opinions, market data, suggestions or any other content are subject to change without notice.
 
-1 本网站所刊载的所有聊天，消息，新闻，研究，分析，价格，或其他信息，均不构成投资建议。参阅本网站上所刊的文档的用户，应被视为已确认得悉上述立场。投资者使用或依赖这些信息可能发生的直接或间接的损失与本网站无关。
+1 All chats, messages, news, research, analysis, prices, or other information published on this website do not constitute investment advice. Users who refer to the documents published on this website should be deemed to have confirmed the above position. The direct or indirect losses that may occur to investors using or relying on this information have nothing to do with this website.
 
-2 所有注册用户须按照“后台实名、前台自愿”原则进行真实身份信息认证。我们将对未认证真实身份信息的用户拒绝提供部分服务。我们在未经您同意的情况下，不会将您的任何资料以任何方式泄露给任何第三方。
+2 All registered users must authenticate their real identity information in accordance with the principle of "real name at the backend and voluntary at the front desk". We will refuse to provide some services to users who have not verified their real identity information. We will not disclose any of your information to any third party in any way without your consent.
 
-3 当政府司法机关依照法定程序要求本网站披露个人资料时，我们将根据执法单位之要求或为公共安全之目的提供个人资料。在此情况下之任何披露，本网站均得免责。
+3 When government judicial organs require this website to disclose personal information in accordance with legal procedures, we will provide personal information in accordance with the requirements of law enforcement agencies or for public safety purposes. In this case, this website shall be exempt from liability for any disclosure.
+4 As the user informs others of the personal password or shares the registered account with others, this website is not responsible for any leakage of personal information caused thereby.
 
-4 由于用户将个人密码告知他人或与他人共享注册帐户，由此导致的任何个人资料泄露，本网站不负任何责任。
+5 Any personal data leakage, loss, stolen or tampered, etc. caused by force majeure that affects the normal operation of the network due to hacker attacks, computer virus intrusion or attack, temporary shutdown caused by government control, etc., this website will take timely remedial measures After that, it will not be liable for any loss.
 
-5 任何由于黑客攻击、计算机病毒侵入或发作、因政府管制而造成的暂时性关闭等影响网络正常经营的不可抗力而造成的个人资料泄露、丢失、被盗用或被窜改等，本网站及时采取补救措施后，不对任何损失承担责任。
+6 This website is not responsible for any legal disputes and consequences caused by the leakage of personal data caused by the user opening a third-party website linked to this website.
 
-6 由于用户打开与本网站链接的三方网站所造成之个人资料泄露及由此而导致的任何法律争议和后果，本网站均不负任何责任。
+7 If the service of this website needs to be suspended due to system maintenance or upgrades, or the service is suspended due to line and hardware failures outside the company's control or other force majeure, this website is not responsible for all inconveniences and losses caused during the suspension of service Any responsibility.
+8 Anyone who logs on to this website in any way or directly or indirectly uses the information on this website is deemed to have voluntarily accepted the constraints of this website statement.
 
-7 本网站如因系统维护或升级而需暂停服务，或因线路及非本公司控制范围外的硬件故障或其它不可抗力而导致暂停服务，于暂停服务期间造成的一切不便与损失，本网站不负任何责任。
+9 For issues not covered in this statement, please refer to the relevant laws and regulations of Estonia. When this statement conflicts with laws and regulations, the national laws and regulations shall prevail.
 
-8 凡以任何方式登陆本网站或直接、间接使用本网站资料者，视为自愿接受本网站声明的约束。
+10 The statement of this website and its right of modification, update and final interpretation belong to Icncde.
 
-9 本声明未涉及的问题参见爱沙尼亚有关法律法规，当本声明与其法律法规冲突时，以国家法律法规为准。
+Trading is risky, investment needs to be cautious
 
-10 本网站之声明以及其修改权、更新权及最终解释权均属Icncde所有。
 
-交易有风险，投资需谨慎
+### Merchant Agreement
+##### Global professional site legal currency OTC platform
 
-### 商家协议
-##### 全球专业站法币OTC平台
+In order to ensure the safety of both parties to the transaction and enhance the credibility of the identity of registered users of this platform, this platform provides you with merchant authentication services. You must provide the necessary real personal information to complete the authentication. This platform has the right to take various legal measures to verify the information you provide. However, due to the virtual nature of the network environment and the limitation of verification methods, the platform will verify the identity of the merchant who has completed the verification. The accuracy and authenticity of the product are not guaranteed.
 
-为了保障交易双方的安全、增强本平台注册用户身份的可信度，本平台向您提供商家认证服务。您必须提供必要的真实个人信息以完成认证，本平台有权采取各种合法措施对您所提供的信息进行核验，但是由于网络环境的虚拟性及核验方法限制，本平台对完成认证的商家身份的准确性和真实性不做任何保证。
+The relevant clauses in all the contents of this agreement are closely related to your rights and obligations. Please read all the contents of this agreement carefully before starting to apply for a certified merchant. Once you start the certification process, it means that you know and have fully understood, and agree Accept the entire content of this agreement.
 
-本协议所有内容中相关条款与您的权利和义务密切相关，请您在开始申请认证商家前，仔细阅读本协议的所有内容，一旦您开始认证流程，即表示您知悉并已充分理解，且同意接受本协议的全部内容。
 
-##### 一、 认证服务的定义与变更
-1.认证服务是在商家提供真实可信的身份信息，交纳一定保证金后，在本平台享有一定特权并承担一定义务的服务。除非发生法定情形或者本协议另有约定，一旦您在本平台完成了认证，相应的身份信息和认证结果将不因任何原因被修改或取消；如果您的身份信息在完成认证后发生了变更，您应向本平台提供相应有权部门出具的凭证，由本平台协助您变更您的认证信息。
-2.出于提供更优质服务及保障交易安全的需要，本平台有权根据主客观情况的变化，对本协议内容进行修改或调整，并通过本平台公告变更后的协议文本，无需单独通知您。本协议进行任何修改或变更后，您还继续使用本平台提供的服务，即代表您已阅读、了解并同意接受变更后的协议内容；您如果不同意变更后的协议内容，应立即向本台申请停用认证服务。
+##### 1. Definition and change of certification services
+1. The authentication service is a service in which the merchant provides authentic and credible identity information, and after paying a certain deposit, enjoys certain privileges and assumes certain obligations on this platform. Unless statutory circumstances occur or otherwise agreed in this agreement, once you have completed the authentication on this platform, the corresponding identity information and authentication results will not be modified or cancelled for any reason; if your identity information is changed after the authentication is completed, You should provide this platform with a certificate issued by the corresponding authority, and this platform will assist you in changing your authentication information. 
 
-##### 二、 认证商家权利
-1.本平台将向申请认证成功的商家提供特有的认证商家标识，该标识在本平台可与未认证的商家进行区分；
-2.在本平台发布符合规定的交易广告信息。
+2. In order to provide better services and ensure transaction security, this platform has the right to modify or adjust the content of this agreement based on changes in subjective and objective conditions, and announce the changed agreement text through this platform without separately notifying you. After any modification or change of this agreement, you continue to use the services provided by this platform, which means that you have read, understood and agreed to accept the content of the changed agreement; if you do not agree to the content of the changed agreement, you should immediately report to this platform Apply to stop the certification service.
 
-##### 三、认证所需资料及保证金
-1.商家个人信息：请将附件商家申请资料内容填写完整并上传。
-2.资产保证金：申请成为认证商家需要向本平台缴纳一定的保证金。保证金将被划至认证商家所属的保证金账户。认证商家在一定期间内无法对该账户内资金无法进行交易或划转。
+##### 2. The rights of certified merchants
+1. This platform will provide unique certified merchant logos to merchants who have successfully applied for certification, which can be distinguished from uncertified merchants on this platform; 
 
-##### 四、认证资料的使用
-认证资料的报告：您在认证时提交给本平台的认证资料，即不可撤销地授权由本平台保留。除法定或本协议约定的情形外，本平台承诺，不编辑或对任何第三方公开您的认证资料，且不将其用于商业目的，但以下情形除外：
-1.您授权本平台透露的相关信息;
-2.本平台向国家司法及行政机关提供;
-3.本平台向本平台关联企业提供;
-4.第三方和本平台一起为用户提供服务时，该第三方向您提供服务所需的相关信息（不包括您的银行账户信息）;
-5.基于解决您与第三方民事纠纷的需要，本平台有权向该第三方提供您的身份信息。
+2. Publish transaction advertising information that meets regulations on this platform.
 
-##### 五、关于保证金的使用
-保证金系用于保障在本平台进行的相关交易的安全。如您在交易过程中发生纠纷，且被判定应对纠纷承担责任并履行相应行为，而您不予配合，本平台有权力对保证金进行处置，处置措施包括但不限于扣留、冻结，或向您的交易对方直接支付。
+##### 3. Information and deposit required for certification
+1. Merchant's personal information: Please complete and upload the contents of the attached merchant application materials. 
 
-##### 六、第三方网站的链接
-为实现身份信息审查，本平台上可能包含指向第三方网站（如网上银行网站）的链接（以下简称“链接网站”）。 “链接网站”非由本平台控制，对于任何“链接网站”的内容，包含但不限于“链接网站”内含的任何链接，或“链接网站”的任何改变或更新，本平台均不予负责。自“链接网站”接收的网络传播或其它形式之传送，本平台不予负责。
+2. Asset deposit: To apply to become a certified merchant, you need to pay a certain deposit to this platform. The deposit will be transferred to the deposit account of the certified merchant. Certified merchants cannot trade or transfer funds in the account within a certain period of time.
 
-##### 七、不得为非法或禁止的使用
-接受本协议全部的说明、条款、条件是您申请认证的前提条件。您声明并保证，您不得为任何非法或为本协议、条件及须知所禁止之目的进行认证申请。您不得以任何可能损害、使瘫痪、使过度负荷或损害其他网站或其他网站的服务或本平台或干扰他人对于认证商家申请的使用等方式使用认证服务。您不得经由非本平台许可提供的任何方式取得或试图取得任何资料或信息。
+##### 4. the use of certification materials
+Report of certification information: The certification information you submit to this platform during certification is irrevocably authorized to be retained by this platform. Except for the circumstances stipulated in the law or this agreement, this platform promises not to edit or disclose your authentication information to any third party, and not to use it for commercial purposes, except in the following circumstances: 
+1. You authorize this platform to disclose relevant information Information; 
 
-##### 八、免责条款
-下列情况导致的个人资料、信息泄露，本平台无需承担任何责任：
-1.由于您将账户密码告知他人或未保管好自己的密码或与他人共享账户或任何其他非本平台的过错，导致您的个人资料泄露。
-2.任何由于黑客攻击、计算机病毒侵入或发作、电信部门技术调整导致之影响、因政府政策或法律管制而造成的关闭、由于第三方原因(包括不可抗力，例如国际出口的主干线路及国际出口电信提供商一方出现故障、火灾、水灾、雷击、地震、洪水、台风、龙卷风、火山爆发、瘟疫和传染病流行、罢工、战争或暴力行为或类似事件等)及其他非因本平台过错而造成的认证信息泄露、丢失、被盗用或被篡改等。
-3.由于与本平台链接的其它网站（如网上银行等）所造成的银行账户信息泄露及由此而导致的任何法律争议和后果。
-4.任何因用户向本平台提供错误、不完整、不实信息等造成不能通过认证或遭受任何其他损失，概与本平台无关。
+2. This platform is provided to national judicial and administrative agencies; 
 
-##### 九、特别声明
-1.本平台对认证商家进行的基本资料审查和保证金要求，并不代表认证商家100%可信，也不代表本平台与认证商家之间存在任何保证关系。请本平台用户严格按照流程交易，做好对交易方的资料审核，详尽沟通，保证自身的交易和资产安全！同时，基于数字资产交易的特殊性，您需要在反洗钱方面的风险格外注意，按照KYC原则的要求对您交易对方的身份进行了解，否则您将可能因交易对方涉嫌犯罪而面临资产冻结等风险。
-2.认证商家承诺其向本平台提供的信息是真实合法的，如有虚假或违法，本平台可取消其认证，并扣留其保证金。
+3. This platform is provided to affiliated companies of this platform; 
 
-##### 十、认证解除
-如认证商家需要解除认证，须向本平台提交申请。如认证商家在认证期间无不良记录、影响交易安全或其他违法违规的行为,本平台将于收到申请后三个工作日内审核通过，并将保证金账户内资金划转至需解除认证商家的可操作账户中。
+4. When a third party and this platform provide services to users, the third party provides you with relevant services Information (not including your bank account information); 
 
-### 隐私政策
-Icncde运营网站 https://www.icncde.com 提供的移动应用程序和交易所服务（以下称“本网站”或“网站”）。为了本协议表述之方便，该网站及相关程序在本协议中合称使用“我们”或其他第一人称称呼。通过浏览、访问或使用 https://www.icncde.com 以及我们提供的移动应用程序和交易所服务的自然人或其他主体均为本站的用户，为本协议表述之便利，以下使用“您”或其他第二人称。为了本协议表述之便利，我们和您在本协议中合称为“双方”，我们或您单称为“一方”。
+5. Based on the need to resolve civil disputes between you and a third party, this platform has the right to provide your identity information to the third party.
 
-本网站所有内容，为便利用户，可能提供多个语言版本，若有冲突或遗漏等情况，以中文版本为准。
+##### 5. About the use of margin
+Margin is used to ensure the safety of related transactions conducted on this platform. If you have a dispute during the transaction, and you are judged to be responsible for the dispute and perform the corresponding actions, and you do not cooperate, this platform has the right to deal with the deposit. The disposal measures include but not limited to detention, freezing, or payment to you The counterparty pays directly.
 
-##### 一、隐私政策制定的目的
-隐私政策规定了我们只通过您登陆本网站、在本网站上注册或使用我们提供的服务采集您信息的类型以及我们如何使用、保护、存储和对外提供这些采集到的信息。
+##### 6. Links to third-party websites
+In order to achieve identity information review, this platform may contain links to third-party websites (such as online banking websites) (hereinafter referred to as "linked websites"). The "linked website" is not controlled by this platform, and the platform is not responsible for the content of any "linked website", including but not limited to any link contained in the "linked website", or any changes or updates to the "linked website". This platform is not responsible for the network communication or other forms of transmission received from the "linked website".
 
-##### 二、您的同意
-为确保您对我们在处理个人资料上有充分信心, 您切要详细阅读及理解隐私政策的条文。特别是您一旦登陆我们的网站，不论您是否在该网站上注册，您均向我们表明您接受、同意、承诺和确认：
-1 您在自愿下同意向我们披露个人资料；
-2 您会遵守本隐私政策的全部条款和限制；
-3 您同意我们通过您登陆本网站、在本网站上注册和/或使用我们提供的服务收集您的信息；您同意日后我们对隐私政策的任何修改；
-4 您同意我们的分公司、附属公司、雇员就您可能会感兴趣的产品和服务与您联络( 除非您已经表示不想收到该等讯息 )。
+##### 7. Not for illegal or prohibited use
+Accepting all the instructions, terms and conditions of this agreement is a prerequisite for your application for certification. You declare and warrant that you will not apply for certification for any illegal or prohibited purpose in this agreement, conditions and instructions. You may not use the certification service in any way that may damage, paralyze, overload or damage other websites or the services of other websites or this platform, or interfere with others' use of the certification business application. You may not obtain or attempt to obtain any materials or information through any means not permitted by this platform.
 
-##### 三、收集的信息
-1 当您使用本网站时，您同意我们开始使用cookies来追踪您的每一个动作，并收集和记住您留下的所有信息，其中包括但不限于您的IP地址，地理位置及其他资料。
-2 如果您愿意使用本网站提供的不同模式的数字资产间的交易服务，您在申请注册时需要填写和提供以下两种信息：
-2.1 身份信息。该信息可以帮助我们验证您是否有资格注册为本网站会员，包括但不限于您的名字、您的居住地址、邮寄地址、您所属国家或政府签发的其他具有证明您身份信息的不同的证书以及涉及到的号码及所有其他可帮助我们验证您身份的信息（以下合称为“身份信息” ）。该身份信息具体根据您是个人用户还是机构用户而有所不同，根据不同司法管辖区的法律和法规，平台针对来自不同国家或地区的用户所收集的信息可能有所不同。以下信息和数据作为一个指示性的示例：
-个人用户：国籍、法定全名（包括曾用名和当地语言名称）、身份证号、电子邮件地址、电话号码、社会安全号码（“SSN”），护照号码或任何政府颁发的身份证号码、出生日期、身份证明（例如护照，驾驶执照或政府颁发的身份证明）、在平台注册日前六个月内拍摄的用户个人照片及平台要求的其他信息或者文件。
-机构用户：公司法定名称（包括当地语言的法定名称）、注册信息、商务电话号码、授权代表及授权用户个人信息、主要营业地点、所有实益拥有人的个人信息）、持有25%或更多股份的股东/实益拥有人的身份证明文件（护照或政府签发的身份证）、公司架构、公司成立相关文件、董事会决议、资金来源申报、风险与合规控制说明及平台要求的其他信息或者文件。
-2.2 服务信息。该信息帮助我们与您联系并顺利为您提供不同模式的数字资产间交易服务，包括但不限于您的个人身份信息、联系信息、交易信息、以及您的借记卡信息和/或其他帐户信息（以下合称为“服务信息” ）。同时请您理解，我们向您提供的服务是不断更新和发展的。如您选择使用了前述说明当中尚未涵盖的其他服务，基于该服务我们需要收集您的额外信息的，我们会通过页面提示、交互流程、协议约定、弹窗提示的方式向您说明信息收集的范围与目的，并征得您的同意。
-3 安全管理。 当您使用本网站提供的服务或访问本网站时，本网站为保障您的交易安全及服务的安全稳定运行，我们需要自动接收并记录您的Web浏览器信息，您登录账户使用的设备类型、型号版本等设备识别符号等设备信息、您请求访问的网页上的IP地址及记录、所在地区、网络环境、设备指纹信息、服务日志信息、软件信息、位置信息等。
-4 在您使用本网站或其提供的服务时，我们可能会为了改进本网站的使用功能，提升您对使用本网站及其提供的服务及其安全性的体验或是根据法院或可适用法律法规或有管辖权的其他政府机构的命令，通过本网站公示的专属于我们的邮箱或其他我们认为合规的方式收集更多的必要的信息。
-5 如果您访问了在本网站上的其他第三方网站或合作的第三方的任何链接，您应同意并遵守该第三方网单独和独立的隐私政策。我们对这些网站或合作方的内容及活动不承担任何责任。
+##### 8. Disclaimer
+The platform does not need to bear any responsibility for the personal data and information leakage caused by the following situations: 
 
-##### 四、Cookies
-1 Cookies常用于记录访问者浏览我们网站上的各个项目时的习惯以及偏好。Cookies所搜集的资料是不记名的集体统计数据, 不载有个人资料。
-2 Cookies不能用于取得您的硬盘上的数据、您的电邮地址、及您的私人数据，其可使本网站或服务商系统识别到您的浏览器并捕捉和记忆信息。大多数浏览器都预设为可以接受Cookies。您可以选择将您的浏览器设定为不接受Cookies,或如果Cookies一被装上就通知您。不过, 若设定为禁止Cookies, 您或许便不能启动或使用我们网站的某些功能。
+1. Because you inform others of your account password or fail to keep your password or share your account with others or any other faults that are not the platform’s fault, your Personal information leaked. 
 
-##### 五、信息使用
-1 我们为了以下目的或以下列方式使用我们收集到的您的信息：
-1.1 处理您的注册，并向您提供本网站所提供的服务；
-1.2 向您通知我们服务的任何变化；
-1.3 根据有关主权国家或地区主管当局的要求，向有关监管部门报告；
-1.4 当您使用本网站提供的服务时，本网站将您的信息用于合法目的，例如身份认证、客户服务、安全、欺诈监控、营销及促销、存档和备份，或与第三方联合推广本网站，以确保本网站向您提供的产品和服务的安全性
-1.5 收集和处理信息，以帮助本网站设计新的产品和服务，并改进本网站提供的现有服务；
-1.6 为了使您能够了解本网站提供的服务的具体内容，您同意允许本网站会不定时向您发送与您分享相关的营销活动信息（公司新闻、促销信息以及由本公司提供的有关产品和服务的信息）、商业电子信息和广告，以取代通用的、全面投放的广告；
-1.7 邀请您参加与本网站提供的服务有关的调查；
-1.8 与政府机构、公共事务机构、协会等合作的数据分析；
-1.9 处理记帐和收取任何费用；
-1.10个性化您的体验（您的信息将帮助我们更好地为您的个性化需求作出回应）；
-1.11我们已采用国际标准以防止洗钱、恐怖融资、规避贸易及经济制裁的行为，当最终的虚拟资产条款和规则生效时，我们都会执行，这要求我们对客户进行尽职调查。这可能包括使用第三方数据和服务提供商将您的个人信息与其数据交叉比对。
-1.12用于所有其他合法用途以及您授权的其他用途。
-2 我们不会向其他方出售、交易或以其他方式转让信息或允许他人收集、使用信息，但不包括以下其他方和以下信息：我们的关联方、帮助我们经营我们的网站、开展业务、或者向您提供服务的受信任的第三方，只要这些当事方同意将这些信息保密；当我们相信披露的信息是适当的，是遵守法律、法规、规章制度的或来自于法院或他主管当局的命令、执行我们的网站策略，正常运行网站所需要，关联方提供服务所需或保护我们或他人的权利、财产或安全的。
-3在您终止使用本平台服务后，我们会停止对您的信息的收集和使用，法律法规或监管部门另有规定的除外。如我们停止运营，我们将及时停止收集您个人信息的活动，将停止运营的通知以逐一送达或公告的形式通知您，并对所持有的您的个人信息进行删除或匿名化处理。
+2. Anything due to hacker attack, computer virus intrusion or attack, influence caused by technical adjustment of telecommunications sector, closure due to government policy or legal control, due to third party reasons (including force majeure, such as international export trunk lines and international export telecommunications Failure, fire, flood, lightning strikes, earthquakes, floods, typhoons, tornadoes, volcanic eruptions, plagues and epidemics of infectious diseases, strikes, wars or violent acts or similar events on the provider side) and other causes not caused by the fault of this platform The authentication information is leaked, lost, stolen or tampered with, etc. 
 
-##### 六、个人资料的保护
-1 我们实施妥善的实物、电子、管理及技术方面的措施来保护和保障您的个人资料的安全。我们尽力确保通过我们网站所搜集的任何个人资料皆免于任何与我们无关的第三者的滋扰。我们采取的安全措施包括但不限于：
-1.1 实物措施：存有您个人资料的记录会被存放在有锁的地方。
-1.2 电子措施：存有您个人资料的电脑数据会被存放在受严格登入限制的电脑系统和存储媒体上。
-1.3 管理措施：我们内部设立有对用户信息进行安全保护的相关部门，并建立了相关内控制度，对可能接触到您的信息的工作人员采取严格授权原则，只有经我们授权的职员才能接触到您的个人资料, 这些职员需要遵守我们个人资料保密的内部守则。此外，我们不断对工作人员培训相关法律法规及隐私安全准则和安全意识强化宣导，并定期组织内部相关人员进行应急响应培训和应急演练，使其掌握岗位职责和应急处置策略和规程。
-1.4 技术措施：可能采用如Secure Socket Layer Encryption这种加密技术来输送您的个人资料。
-1.5 安全措施：为保障您的信息安全，我们致力于使用各种现行通用的安全技术及配套的管理体系来尽量降低您的信息被泄露、毁损、误用、非授权访问、非授权披露和更改的风险。例如：通过网络安全层软件（SSL）进行加密传输、信息加密存储、严格限制数据中心的访问。传输和存储个人敏感信息（含个人生物识别信息）时，我们将采用加密、权限控制、去标识化、脱敏化等安全措施。
-1.6 其它措施：定期审查我们的个人资料收集，存储和处理流程; 并根据必要的原则限制我们的员工和供应商对您数据的访问权限，且我们的员工和供应商均需遵守严格的合同保密义务。
-2 若您知悉我们的网站上有任何安全方面的漏洞, 请马上联系我们, 使我们可以尽快采取妥适的行动。
-3 尽管实施了上述技术和保安的措施, 我们不能保证资料在互联网上的输送绝对安全, 因此我们不能绝对保证您通过我们网站提供给我们的个人资料在一切时候都是安全的。对任何因未经授权而接触您个人资料所发生的事件我们一槪不承担责任, 于这方面产生或导致的任何损失或损害, 我们不负责赔偿。
-4本网站不针对未满18岁的儿童。我们不会故意联系或收集18岁以下儿童的个人信息或敏感的个人数据（种族或民族，政治观点，宗教或哲学信仰， 工会会员，生物识别数据，有关健康的数据，有关自然人性生活或性取向的数据）。 如果您认为我们无意中收集了此类信息，请与我们联系，以便我们获得特别同意或删除信息。
+3. Leakage of bank account information caused by other websites linked to this platform (such as online banking, etc.) and any legal disputes and consequences resulting therefrom. 
 
-##### 七、隐私政策的修订
-我们保留随时修改该隐私政策的权利。我们通过更新和发布新版本的生效日期告诉您我们修订了隐私政策，有时我们会发布通知告诉您隐私政策已修订，但这不是我们的一项义务。您应定期查看隐私政策并关注其修订情况，如果您不同意修订的内容，您应停止立即访问本网站。当隐私政策的更新版本发布，您继续访问本网站显示和表明您同意该更新的内容，并同意遵守该更新的隐私权政策。
+4. Any failure to pass authentication or any other losses caused by users providing wrong, incomplete, or false information to this platform has nothing to do with this platform.
 
-##### 八、访问、更正和删除您的个人数据
-您有权根据要求获得您的个人资料副本，并确定我们掌握的关于您的信息是否准确并且是最新的。如果您的任何个人数据不准确，您可以要求更新您的信息。您也可以要求删除您的个人资料，但我们可能会在某些情况下拒绝您的删除请求，例如出于法律要求或其他法律目的。有关数据访问，更正或删除请求，请联系affiliate@icncde.com。
-为了响应数据访问，更正或删除请求，我们将验证请求方的身份，以确保他/她在法律上有权提出此类请求。虽然我们的目标是免费回复这些请求，但我们保留在您的请求重复或繁重时向您收取合理费用的权利。
-我们只通过本网站上的有效的联系方式发布公告和信息或在本网站张贴公告，所以我们对由于您信任了未通过以上方式获得的信息而产生的任何损失不承担责任。若您对我们的隐私政策有任何问题, 欢迎随时联系我们。
+##### 9. special statement
+1. The basic information review and deposit requirements of certified merchants conducted by this platform do not mean that the certified merchants are 100% credible, nor that there is any guarantee relationship between the platform and the certified merchants. Users of this platform are requested to strictly follow the process of trading, do a good job of reviewing the information of the transaction parties, communicate in detail, and ensure the safety of their transactions and assets! At the same time, based on the particularity of digital asset transactions, you need to pay special attention to the risks of anti-money laundering and understand the identity of your counterparty in accordance with the requirements of the KYC principle, otherwise you may face risks such as asset freezing due to the suspected crime of the counterparty . 
 
-### 用户协议
-##### 用户服务协议
+2. The certified merchant promises that the information it provides to this platform is true and legal. If it is false or illegal, the platform can cancel its certification and withhold its deposit.
 
-Icncde运营网站 https://www.icncde.com 提供的移动应用程序和交易所服务（以下称“本网站”或“网站”）为了本协议表述之方便，该网站及相关程序在本协议中合称使用“我们”或其他第一人称称呼。通过浏览、访问或使用 https://www.icncde.com 以及我们提供的移动应用程序和交易所服务的自然人或其他主体均为本站的用户，为本协议表述之便利，以下使用“您”或其他第二人称。为了本协议表述之便利，我们和您在本协议中合称为“双方”，我们或您单称为“一方”。
+##### 10. Certification cancellation
+If certified merchants need to de-certify, they must submit an application to this platform. If the certified merchant has no bad records, affects transaction security or other violations of laws and regulations during the certification period, the platform will review and pass the application within three working days after receiving the application, and transfer the funds in the margin account to the merchant that needs to be decertified Operational account.
 
-本网站所有内容，为便利用户，可能提供多个语言版本，若有冲突或遗漏等情况，以中文版本为准。
+### Privacy Policy
+Icncde operates the mobile application and exchange services provided by the website https://www.icncde.com (hereinafter referred to as "this website" or "website"). For the convenience of the expression of this agreement, the website and related programs collectively use "we" or other first-person address in this agreement. Natural persons or other subjects who browse, visit or use https://www.icncde.com and the mobile applications and exchange services provided by us are all users of this site. For the convenience of this agreement, "you" is used below Or other second person. For the convenience of the expression of this agreement, we and you are collectively referred to as the "two parties" in this agreement, and we or you are solely referred to as the "party".
 
-重要提示：
-我们在此特别提醒您：
-1、数字资产本身不由任何金融机构或公司或本网站发行；
-2、数字资产市场是全新的、未经确认的，而且可能不会增长；
-3、数字资产主要由投机者大量使用，零售和商业市场使用相对较少，数字资产交易存在极高风险，其全天不间断交易，没有涨跌限制，价格容易受庄家、全球政府政策的影响而大幅波动；
-4、如果公司根据其单方判断认为您违反了本协议，或者根据您所在管辖区域的法律本网站提供的服务或者您使用本网站提供的服务的行为是非法的，公司有权随时暂停或终止您的账户，或者暂停或终止您使用本网站提供的服务或数字资产交易。
-数字资产交易有极高风险，并不适合绝大部分人士。您了解和理解此交易有可能导致部分损失或全部损失，所以您应该以能承受的损失程度来决定交易的金额。您了解和理解数字资产会产生衍生风险，所以如有任何疑问，建议先寻求专业顾问的协助。此外，除了上述提及过的风险以外，还会有未能预测的风险存在。您应慎重考虑并用清晰的判断能力去评估自己的财政状况及上述各项风险而作出任何买卖数字资产的决定，并承担由此产生的全部损失，我们对此不承担任何责任。
+All content on this website may be provided in multiple languages for the convenience of users. In case of conflicts or omissions, the Chinese version shall prevail.
 
-敬告您：
-1、您了解本网站仅作为您获取数字资产信息、寻找交易方、就数字资产的交易进行协商及开展交易的场所，本网站不参与您的任何交易，故您应自行谨慎判断确定相关数字资产及/或信息的真实性、合法性和有效性，并自行承担因此产生的责任与损失。
-2、本网站的任何意见、消息、探讨、分析、价格、建议和其他资讯均是一般的市场评论，并不构成投资建议。我们不承担任何因依赖该资讯直接或间接而产生的损失，包括但不限于任何利润损失。
-3、本网站的内容会随时更改并不作另行通知，我们已采取合理措施确保网站资讯的准确性，但并不能保证其准确性程度，亦不会承担任何因本网站上的资讯或因未能链结互联网、传送或接收任何通知和信息时的延误或失败而直接或间接产生的损失。
-4、使用互联网形式的交易系统亦存有风险，包括但不限于软件，硬件和互联网链结的失败等。由于我们不能控制互联网的可靠性和可用性，我们不会对失真，延误和链结失败而承担任何责任。
-5、https://www.icncde.com 为本网站唯一官方对外信息公布平台；
-6、禁止使用本网站从事洗钱、走私、商业贿赂等一切非法交易活动或违法行为，若发现任何涉嫌非法交易或违法行为，本站将采取各种可使用之手段，包括但不限于冻结账户，通知相关权力机关等，我们不承担由此产生的所有责任并保留向相关人士追究责任的权利。
-7、禁止使用本网站进行恶意操纵市场、不正当交易等一切不道德交易活动，若发现此类事件，本网站将对所有恶意操纵价格、恶意影响交易系统等不道德的行为采取警告、限制交易、关停账户等预防性的保护措施，我们不承担由此产生的所有责任并保留向相关人士追究责任的权利。
+
+##### 1. The purpose of the privacy policy
+The privacy policy stipulates the types of information we collect from you only by logging in to this website, registering on this website, or using the services we provide, and how we use, protect, store and provide externally the collected information.
+
+##### 2. Your consent
+To ensure that you have full confidence in our handling of personal data, you must read and understand the provisions of the privacy policy in detail. Especially once you log in to our website, whether you register on the website or not, you indicate to us that you accept, agree, promise and confirm: 
+
+1 You voluntarily agree to disclose personal information to us; 
+
+2 You will abide by this privacy All terms and restrictions of the policy; 
+
+3 You agree that we collect your information by logging in to this website, registering on this website and/or using the services we provide; You agree to any future changes to our privacy policy; 
+
+4 You agree to us Branches, affiliates, and employees of the company will contact you about products and services that may be of interest to you (unless you have indicated that you do not want to receive such information).
+
+##### 3. Information collected
+1 When you use this website, you agree that we start to use cookies to track your every action, and collect and remember all the information you leave, including but not limited to your IP address, geographic location and other information. 
+
+2 If you are willing to use the different modes of digital asset transaction services provided by this website, you need to fill in and provide the following two types of information when applying for registration: 2.1 Identity information. This information can help us verify whether you are eligible to register as a member of this website, including but not limited to your name, your residential address, mailing address, other different certificates issued by your country or government that can prove your identity, and The numbers involved and all other information that can help us verify your identity (hereinafter collectively referred to as "identity information"). The identity information varies according to whether you are an individual user or an institutional user. According to the laws and regulations of different jurisdictions, the information collected by the platform for users from different countries or regions may be different. The following information and data serve as an indicative example: Individual users: nationality, full legal name (including previous names and local language names), ID number, email address, phone number, social security number ("SSN"), passport Number or any government-issued ID number, date of birth, identity certificate (such as passport, driver’s license or government-issued identity certificate), user’s personal photos taken within six months of the platform registration date, and other information or documents required by the platform . Institutional users: company legal name (including legal name in local language), registration information, business phone number, personal information of authorized representatives and authorized users, main business location, personal information of all beneficial owners), holding 25% or more The identity documents of the shareholders/beneficial owners of the shares (passports or government-issued ID cards), company structure, company establishment documents, board resolutions, declaration of sources of funds, risk and compliance control instructions, and other information or documents required by the platform . 2. 2 Service information. This information helps us to contact you and smoothly provide you with different modes of digital asset transaction services, including but not limited to your personal identification information, contact information, transaction information, and your debit card information and/or other account information (Hereinafter collectively referred to as "service information"). At the same time, please understand that the services we provide to you are constantly updated and developed. If you choose to use other services that are not covered in the foregoing description, based on the service we need to collect additional information about you, we will explain the scope of information collection to you through page prompts, interaction procedures, agreement agreements, and pop-up prompts And purpose, and with your consent. 
+
+3 Security management. When you use the services provided by this website or visit this website, in order to ensure the safety of your transaction and the safe and stable operation of the service, we need to automatically receive and record your web browser information, the type of device you use to log in to your account, Device information such as device identification symbols such as model version, IP address and records on the webpage you request to access, location, network environment, device fingerprint information, service log information, software information, location information, etc. 
+
+4 When you use this website or the services it provides, we may improve the use of this website, enhance your experience of using this website and the services it provides and its security, or in accordance with courts or applicable laws Or the order of other government agencies with jurisdiction to collect more necessary information through our dedicated mailbox or other methods that we consider to be compliant. 5 If you visit other third-party websites on this website or any link of a cooperating third party, you should agree to and abide by the separate and independent privacy policy of the third-party network. We are not responsible for the content and activities of these websites or partners. When you use this website or the services it provides, we may improve the use of this website, enhance your experience of using this website and the services provided and its security, or in accordance with courts or applicable laws and regulations or Orders of other government agencies with jurisdiction to collect more necessary information through our dedicated mailbox or other methods that we consider to be compliant. 
+
+5 If you visit other third-party websites on this website or any link of a cooperating third party, you should agree to and abide by the separate and independent privacy policy of the third-party network. We are not responsible for the content and activities of these websites or partners. When you use this website or the services it provides, we may improve the use of this website, enhance your experience of using this website and the services provided and its security, or in accordance with courts or applicable laws and regulations or Orders of other government agencies with jurisdiction to collect more necessary information through our dedicated mailbox or other methods that we consider to be compliant. 
+
+##### 4. Cookies
+1 Cookies are often used to record the habits and preferences of visitors when browsing various items on our website. The information collected by cookies is anonymous collective statistics and does not contain personal information. 
+
+2 Cookies cannot be used to obtain data on your hard disk, your email address, and your private data. They can make this website or service provider system recognize your browser and capture and remember information. Most browsers are preset to accept Cookies. You can choose to set your browser to not accept Cookies, or notify you as soon as Cookies are installed. However, if it is set to prohibit cookies, you may not be able to activate or use some features of our website.
+
+##### 5. Use of information
+1 We use your information we collect for the following purposes or in the following ways: 
+
+1.1 To process your registration and provide you with the services provided by this website; 
+
+1.2 To notify you of any changes in our services; 
+
+1.3 According to relevant sovereign countries Or as required by the regional competent authority, report to the relevant regulatory authorities; 
+
+1.4 When you use the services provided by this website, this website uses your information for legitimate purposes, such as identity authentication, customer service, security, fraud monitoring, marketing and promotion , Archive and backup, or jointly promote this website with a third party to ensure the safety of the products and services this website provides to you 
+
+1.5 Collect and process information to help this website design new products and services, and improve the provision of this website 
+
+1.6 In order to enable you to understand the specific content of the services provided by this website, you agree to allow this website to send you information about marketing activities (company news, promotional information, and information provided by the company) from time to time. Information about products and services), commercial electronic information and advertisements to replace general and comprehensive advertisements; 
+
+1.7 You are invited to participate in surveys related to the services provided on this website; 
+
+1.8 Cooperation with government agencies, public affairs agencies, associations, etc. Data analysis; 
+
+1.9 process accounting and charge any fees; 
+
+1.10 personalize your experience (your information will help us better respond to your individual needs); 
+
+1.11 we have adopted international standards to prevent money laundering and terror We will implement financing, evasion of trade and economic sanctions when the final virtual asset terms and rules become effective. This requires us to conduct due diligence on our customers. This may include the use of third-party data and service providers to cross-check your personal information with their data. 
+
+1.12 Used for all other legal purposes and other purposes authorized by you.
+
+2 We will not sell, trade or otherwise transfer information to other parties or allow others to collect and use information, but do not include the following other parties and the following information: our affiliates, help us operate our website, conduct business, or Trusted third parties who provide services to you, as long as these parties agree to keep the information confidential; when we believe that the disclosed information is appropriate, is in compliance with laws, regulations, rules and regulations, or comes from a court or other competent authority To order and execute our website strategy, what is needed for the normal operation of the website, what is needed for affiliates to provide services, or to protect our or others’ rights, property or safety. 
+
+3 After you terminate the use of the platform services, we will stop the collection and use of your information, unless otherwise provided by laws, regulations or regulatory authorities. If we stop operations, we will promptly stop the collection of your personal information, notify you of the suspension of operations in the form of one-by-one delivery or announcement, and delete or anonymize the personal information we hold.
+
+##### 6. Protection of personal data
+1 We implement proper physical, electronic, management and technical measures to protect and protect the security of your personal data. We try our best to ensure that any personal information collected through our website is free from any nuisance by third parties that have nothing to do with us. The security measures we take include but are not limited to: 
+
+1.1 Physical measures: The records containing your personal information will be stored in a locked place. 
+
+1.2 Electronic measures: Computer data containing your personal information will be stored on computer systems and storage media subject to strict login restrictions. 
+
+1.3 Management measures: We have internally set up relevant departments for the security protection of user information, and established related internal control systems. We adopt strict authorization principles for staff who may have access to your information. Only our authorized staff can access you For personal information, these employees need to abide by our internal rules for the confidentiality of personal information. In addition, we continue to strengthen the promotion of staff training related laws and regulations, privacy and security guidelines and security awareness, and regularly organize internal relevant personnel to conduct emergency response training and emergency drills to enable them to master job responsibilities and emergency response strategies and procedures. 
+
+1.4 Technical measures: Encryption technology such as Secure Socket Layer Encryption may be used to transmit your personal data. 
+
+1.5 Security measures: In order to protect your information security, we are committed to using various current general security technologies and supporting management systems to minimize the leakage, damage, misuse, unauthorized access, unauthorized disclosure and modification of your information risks of. For example: Encrypted transmission through network security layer software (SSL), encrypted storage of information, and strict restrictions on data center access. When transmitting and storing sensitive personal information (including personal biometric information), we will adopt security measures such as encryption, authority control, de-identification, and desensitization. 
+
+1.6 Other measures: regularly review our personal data collection, storage and processing procedures; and restrict our employees and suppliers' access to your data according to necessary principles, and our employees and suppliers are required to abide by strict contract confidentiality obligation. 
+
+2 If you know of any security vulnerabilities on our website, please contact us immediately so that we can take appropriate actions as soon as possible. 
+
+3 Despite the implementation of the above-mentioned technical and security measures, we cannot guarantee the absolute safety of the transmission of information on the Internet, so we cannot absolutely guarantee that the personal information you provide to us through our website is safe at all times. We are not responsible for any incidents that occur due to unauthorized access to your personal data. We are not responsible for compensation for any loss or damage caused or caused in this respect. 
+
+4 This website does not target children under 18 years of age. We will not deliberately contact or collect personal information or sensitive personal data (race or ethnicity, political opinions, religious or philosophical beliefs, union membership, biometric data, health-related data, or related to the sexual life of natural persons) of children under 18 years of age. Sexual orientation data). If you believe that we have collected such information unintentionally, please contact us so that we can obtain special consent or delete the information.
+
+##### 7. the revision of the privacy policy
+We reserve the right to modify this privacy policy at any time. We update and publish the effective date of the new version to tell you that we have revised the privacy policy. Sometimes we will issue a notice to tell you that the privacy policy has been revised, but this is not an obligation of us. You should review the privacy policy regularly and pay attention to its revisions. If you do not agree with the revised content, you should stop visiting this website immediately. When the updated version of the privacy policy is released, you continue to visit this website to display and indicate that you agree to the updated content and agree to abide by the updated privacy policy.
+
+##### 8. Access, correct and delete your personal data
+You have the right to obtain a copy of your personal data upon request, and to determine whether the information we hold about you is accurate and current. If any of your personal data is inaccurate, you can request to update your information. You can also request the deletion of your personal data, but we may refuse your deletion request in certain circumstances, such as for legal requirements or other legal purposes. For data access, correction or deletion requests, please contact affiliate@icncde.com . 
+
+In response to data access, correction or deletion requests, we will verify the identity of the requesting party to ensure that he/she is legally entitled to make such requests. Although our goal is to respond to these requests for free, we reserve the right to charge you a reasonable fee if your request is repeated or onerous. We only publish announcements and information through the effective contact information on this website or post announcements on this website, so we are not responsible for any losses arising from your trust in the information not obtained through the above methods. If you have any questions about our privacy policy, please feel free to contact us.
+
+### User Agreement
+##### User Services Agreement
+
+The mobile applications and exchange services provided by Icncde’s website https://www.icncde.com (hereinafter referred to as “this website” or “website”) are included in this agreement for the convenience of the expression of this agreement. Use "we" or other first-person addressing. Natural persons or other subjects who browse, visit or use https://www.icncde.com and the mobile applications and exchange services provided by us are all users of this site. For the convenience of this agreement, "you" is used below Or other second person. For the convenience of the expression of this agreement, we and you are collectively referred to as the "two parties" in this agreement, and we or you are solely referred to as the "party".
+
+All content on this website may be provided in multiple languages for the convenience of users. In case of conflicts or omissions, the Chinese version shall prevail.
+
+Important note:
+We hereby remind you:
+1. The digital asset itself is not issued by any financial institution or company or this website; 
+
+2. The digital asset market is brand new, unconfirmed, and may not grow; 
+
+3. Digital asset It is mainly used by speculators in large quantities, and is relatively less used in the retail and commercial markets. Digital asset transactions are extremely risky. They are traded uninterrupted throughout the day and have no restrictions on fluctuations. Prices are easily affected by market makers and global government policies and fluctuate greatly; 
+
+4. If the company believes that you have violated this agreement according to its unilateral judgment, or the services provided by this website or your use of the services provided by this website are illegal according to the laws of your jurisdiction, the company has the right to suspend or terminate you at any time Account, or suspend or terminate your use of the services or digital asset transactions provided by this website. Digital asset transactions have extremely high risks and are not suitable for most people. You understand and understand that this transaction may cause partial or total loss, so you should decide the amount of the transaction based on the degree of loss that you can bear. You understand and understand that digital assets will generate derivative risks, so if you have any questions, it is recommended to seek professional advice first. In addition, in addition to the risks mentioned above, there will also be unpredictable risks. You should carefully consider and use clear judgment to evaluate your financial situation and the above risks before making any decision to buy or sell digital assets, and bear all the losses arising therefrom. We are not responsible for this.
+
+Warning to you:
+1. You understand that this website is only a place for you to obtain digital asset information, find trading parties, negotiate and conduct transactions on digital asset transactions. This website does not participate in any of your transactions, so you should make your own judgment and make sure The authenticity, legality and validity of the relevant digital assets and/or information, and the responsibility and loss arising therefrom shall be borne by itself. 
+
+2. Any opinions, news, discussions, analysis, prices, suggestions and other information on this website are general market comments and do not constitute investment advice. We are not responsible for any losses arising directly or indirectly from relying on this information, including but not limited to any loss of profits. 
+
+3. The content of this website will be changed at any time without notice. We have taken reasonable measures to ensure the accuracy of the website information, but we cannot guarantee its accuracy, and will not be responsible for any information on this website or failure to Loss directly or indirectly caused by delays or failures in linking to the Internet, transmitting or receiving any notices and information. 
+
+4. There are risks associated with the use of Internet-based trading systems, including but not limited to the failure of software, hardware and Internet links. Since we cannot control the reliability and availability of the Internet, we will not be liable for distortions, delays, and link failures. 
+
+5. https://www.icncde.com is the only official platform for publishing external information on this website; 
+
+6. It is forbidden to use this website to engage in money laundering, smuggling, commercial bribery and other illegal transactions or illegal activities. If any suspected illegal transaction or For violations of the law, this site will adopt various methods that can be used, including but not limited to freezing accounts, notifying relevant authorities, etc. We do not assume all responsibilities arising therefrom and reserve the right to hold relevant parties accountable. 
+
+7. It is forbidden to use this website for malicious market manipulation, improper transactions and other unethical trading activities. If such incidents are found, this website will warn and restrict transactions for all unethical behaviors such as malicious price manipulation and malicious influence on the trading system. For preventive protection measures such as account closure, we do not assume all the responsibilities arising therefrom and reserve the right to hold relevant parties accountable.
 
 一、总则
-1.1《用户协议》（以下称“本协议”或“本条款及条件”），由正文、《隐私条款》、《了解你的客户和反洗钱政策》以及本网站已经发布的或将来可能发布的各类规则、声明、说明等构成。
-1.2您在使用本网站提供的各项服务之前，应仔细阅读本协议，如有不理解之处或其他必要，请咨询专业律师。如您不同意本协议或随时对其的修改，请您立即停止使用本网站提供的服务或不再登陆本网站。您一旦登陆本网站、使用本网站的任何服务或任何其他类似行为即表示您已了解并完全同意本协议各项内容，包括本网站对本协议随时所做的任何修改。
-1.3您通过按照本网站的要求填写相关信息，并经过其他相关程序后成功注册可以成为本网站的会员（以下称“会员”），在进行注册过程中点击“同意”按钮即表示您以电子签署的形式与公司达成协议；或您在使用本网站过程中点击任何标有“同意”或类似意思的按钮的行为或以其他本网站允许的方式实际使用本网站提供的服务时，均表示您完全了解、同意且接受本协议项下的全部条款的约束，无您手写的书面签字不影响本协议对您的法律约束力。
-1.4成为本网站的会员后，您将获得一个会员帐号及相应的密码，该会员帐号和密码由您负责保管；您应当对以您帐号进行的所有活动和事件负法律责任。
-1.5只有成为本网站的会员才可使用本网站提供的数字资产交易平台进行交易及享受其他本网站规定的只有会员才可获得的服务；非会员只有登陆网站、浏览网站及其他本网站规定的可获得的服务。
-1.6通过注册和使用任何由本网站提供的服务和功能，您将被视为已阅读，理解并：
-1.6.1接受本协议所有条款及条件的约束。
-1.6.2您确认您已年满18周岁或根据不同的可适用的法律规定的具有可订立合同的法定年龄，您在本网站的注册、销售或购买、发布信息等接受本网站服务的行为应当符合对您有管辖权的主权国家或地区相关法律法规，并有充分的能力接受这些条款，并订立交易，使用本网站进行数字资产交易。
-1.6.3您保证交易中涉及到的属于您的数字资产均为合法取得并享有所有权。
-1.6.4您同意您为您自身的交易或非交易行为承担全部责任和任何收益或亏损。
-1.6.5您确认注册时提供的信息是真实和准确的。
-1.6.6您同意遵守任何有关法律的规定，就税务目的而言，包括报告任何交易利润。
-1.6.7您同意在任何时候不得从事或参与损害本网站或公司利益的行为或活动，无论是否与本网站提供的服务有关。
-1.6.8本协议只是就您与我们之间达成的权利义务关系进行约束，而并不涉及本网站用户之间与其他网站和您之间因数字资产交易而产生的法律关系及法律纠纷。
+1.1 "User Agreement" (hereinafter referred to as "this agreement" or "the terms and conditions"), consisting of the main text, the "Privacy Policy", "Know Your Customer and Anti-Money Laundering Policy" and what has been published on this website or in the future The possible composition of various rules, statements, instructions, etc. 
 
-二、协议修订
-我们保留不时修订本协议、并以网站公示的方式进行公告、不再单独通知您的权利，变更后的协议会在本协议首页标注变更时间，一经在网站公布，立即自动生效。您应不时浏览及关注本协议的更新变更时间及更新内容，如您不同意相关变更，应当立即停止使用本网站服务；您继续使用本网站服务，即表示您接受并同意经修订的协议的约束。
+1.2 Before using the services provided on this website, you should read this agreement carefully. If you do not understand anything or other necessary, please consult a professional lawyer. If you do not agree to this agreement or modify it at any time, please immediately stop using the services provided by this website or stop logging in to this website. Once you log in to this website, use any service of this website or any other similar behavior, it means that you have understood and fully agreed to the contents of this agreement, including any modification of this agreement made by this website at any time. 
 
-三、注册
-3.1注册资格
-您确认并承诺：在您完成注册程序或以其他本网站允许的方式实际使用本网站提供的服务时，您应当是具备可适用的法律规定的可签署本协议及使用本网站服务应具有的能力的自然人、法人或其他组织。您一旦点击同意注册按钮，即表示您自身或您的有权代理人已经同意该协议内容并由其代理注册及使用本网站服务。若您不具备前述主体资格，则您及您的有权代理人应承担因此而导致的一切后果，且公司保留注销或永久冻结您账户，并向您及您的有权代理人追究责任的权利。
-3.2注册目的
-您确认并承诺：您进行本网站注册并非出于违反法律法规或破坏本网站数字资产交易秩序的目的。
-3.3注册流程
-3.3.1您同意根据本网站用户注册页面的要求提供有效电子邮箱、手机号码等信息，您可以使用您提供或确认的邮箱、手机号码或者本网站允许的其它方式作为登陆手段进入本网站。如有必要，按照不同法域相关法律法规的规定，您必须提供您的真实姓名、身份证件等法律法规及隐私条款及反洗钱条款规定的相关信息并不断更新注册资料，符合及时、详尽、准确的要求。所有原始键入的资料将引用为注册资料。您应对该等信息的真实性、完整性和准确性负责，并承担因此产生的任何直接或间接损失及不利后果。
-3.3.2如您所在主权国家或地区的法律法规、规则、命令等规范对手机号码有实名要求，您同意提供注册的手机号码是经过实名登记的，如您不按照规定提供，因此给您带来的任何直接或间接损失及不利后果均应由您承担。
-3.3.3您合法、完整并有效提供注册所需信息并经验证，有权获得本网站账号和密码，您获得本网站账号及密码时视为注册成功，可在本网站进行会员登陆。
-3.3.4您同意接收本网站发送的与本网站管理、运营相关的电子邮件和/或短消息。
+1.3 You can become a member of this website (hereinafter referred to as "member") by filling in relevant information in accordance with the requirements of this website, and successfully registering after other relevant procedures. Clicking the "Agree" button during the registration process means that you sign electronically In the form of an agreement with the company; or when you click any button marked with "agree" or similar meaning during the use of this website, or when you actually use the services provided by this website in other ways permitted by this website, it means that you are completely Understand, agree and accept all the terms and conditions under this agreement. Without your handwritten written signature, it will not affect the legal binding force of this agreement on you. 
 
-四、服务
-本网站只为您通过本网站进行数字资产交易活动（包括但不限于数字资产交易等服务）提供网络交易平台服务。
-4.1服务内容
-4.1.1您有权在本网站浏览数字资产各项产品的实时行情及交易信息、有权通过本网站提交数字资产交易指令并完成数字资产交易。
-4.1.2您有权在本网站查看您会员账号下的信息，有权应用本网站提供的功能进行操作。
-4.1.3您有权按照本网站发布的活动规则参与本网站组织的网站活动。
-4.1.4本网站承诺为您提供的其他服务。
-4.2.服务规则您承诺遵守下列本网站服务规则：
-4.2.1您应当遵守法律法规、规章、及政策要求的规定，保证账户中所有数字资产来源的合法性，不得在本网站或利用本网站服务从事非法或其他损害本网站或第三方权益的活动，包括但不限于发送或接收任何违法、违规、侵犯他人权益的信息，发送或接收传销材料或存在其他危害的信息或言论，未经本网站授权使用或伪造本网站电子邮件题头信息等。
-4.2.2您应当遵守法律法规并妥善使用和保管您的账号及登陆密码、资金密码、和您注册时绑定的手机号码、以及手机接收的手机验证码。您对使用您的账号和登陆密码、资金密码、手机验证码进行的任何操作和后果承担全部责任。当您发现本网站账号、登陆密码、或资金密码、验证码被未经您授权的第三方使用，或存在其他账号安全问题时，应立即有效通知本网站，要求本网站暂停本网站账号的服务。本网站有权在合理时间内对您的该等请求采取行动，但本网站对在采取行动前已经产生的后果（包括但不限于您的任何损失）不承担任何责任。您在未经本网站同意的情况下不得将本网站账号以赠与、借用、租用、转让或其他方式处分给他人。
-4.2.3您同意对您的本网站的账号、密码下发生的所有活动（包括但不限于信息披露、发布信息、网上点击同意或提交各类规则协议、网上续签协议或购买服务等）承担责任。
-4.2.4您在本网站进行数字资产交易时不得恶意干扰数字资产交易的正常进行、破坏交易秩序；不得以任何技术手段或其他方式干扰本网站的正常运行或干扰其他用户对本网站服务的使用；不得以虚构事实等方式恶意诋毁本网站的商誉。
-4.2.5如您因网上交易与其他用户产生纠纷的，不得通过司法或行政以外的途径要求本网站提供相关资料。
-4.2.6您在使用本网站提供的服务过程中，所产生的应纳税赋，以及一切硬件、软件、服务及其它方面的费用，均由您独自判断和承担。
-4.2.7您应当遵守本网站不时发布和更新的本协议以及其他服务条款和操作规则，有权随时终止使用本网站提供的服务。
-4.3.产品规则
-4.3.1浏览交易信息
-您在本网站浏览交易信息时，应当仔细阅读交易信息中包含的全部内容，包括但不限于价格、委托量、手续费、买入或卖出方向，您完全接受交易信息中包含的全部内容后方可点击按钮进行交易。
-4.3.2提交委托
-在浏览完交易信息并确认无误之后，您可以提交交易委托。您提交交易委托后，即您授权本网站代理您进行相应的交易撮合，本网站在有满足您委托价格的交易时将会自动完成撮合交易而无需提前通知您。
-4.3.3查看交易明细
-您可以通过您的账户查看相应的成交记录。
-4.3.4撤销/修改委托，在委托未达成交易之前，您有权随时撤销或修改委托。
+1.4 After becoming a member of this website, you will get a member account and corresponding password. You are responsible for keeping the member account and password; you should be legally responsible for all activities and events conducted with your account. 
 
-五、本网站的权利和义务
-5.1如您不具备本协议约定的注册资格，则本网站有权拒绝您进行注册，对已注册的，本网站有权注销您的会员账号，本网站保留向您或您的有权代理人追究责任的权利。同时，本网站保留其他任何情况下决定是否接受您注册的权利。
-5.2根据本网站自己的判断，本网站发现您或您的关联账户使用者不适合高风险投资时，有权中止或终止您的账户以及所有关联账户的使用。
-5.3本网站发现账户使用者并非账户初始注册人时，有权中止或终止该账户的使用。
-5.4本网站通过技术检测、人工抽检等检测方式合理怀疑您提供的信息错误、不实、失效或不完整时，有权通知您更正、更新信息或中止、终止为其提供本网站服务。
-5.5本网站有权在发现本网站上显示的任何信息存在明显错误时，对信息予以更正。
-5.6本网站保留随时修改、中止或终止本网站服务的权利，本网站行使修改或中止服务的权利不需事先告知您；本网站终止本网站一项或多项服务的，终止自本网站在网站上发布终止公告之日生效。
-5.7本网站将采取必要的技术手段和管理措施保障本网站的正常运行，并提供必要、可靠的交易环境和交易服务，维护数字资产交易秩序。
-5.8如您连续一年未使用本网站会员账号和密码登陆本网站，则本网站有权注销您的本网站账号。账号注销后，本网站有权将相应的会员名开放给其他用户注册使用。
-5.9本网站通过加强技术投入、提升安全防范等措施保障您的数字资产的安全，并将在您账户出现可以预见的安全风险时提前通知您。
-5.10本网站有权随时删除本网站内各类不符合法律法规或本网站规定等的内容信息，本网站行使该等权利不需提前通知您。
-5.11本网站有权根据您所属主权国家或地区的法律法规、规则、命令等规范的要求，向您要求提供更多的信息或资料等，并采取合理的措施，以符合当地的规范之要求，您有义务配合；本网站有权根据您所属主权国家或地区的法律法规、规则、命令等规范的要求，暂停或永久停止对您开放本网站部分或全部服务。
+1.5 Only members of this website can use the digital asset trading platform provided by this website to conduct transactions and enjoy other services stipulated by this website that only members can obtain; non-members can only log in to the website, browse the website and other services stipulated by this website. Services received. 
 
-六、赔偿
-6.1在任何情况下，我们对您的直接损害的赔偿责任均不会超过我们因您使用本网站为期三（3）个月服务而向您收取的总服务费。
-6.2如您发生违反本协议或其他法律法规等情况，您须向我们至少赔偿200万美元及承担由此产生的全部费用（包括律师费等），如不够弥补实际损失，您须补全。
+1.6 By registering and using any services and functions provided by this website, you will be deemed to have read, understood and: 
 
-七、寻求禁令救济的权利
-我们和您均承认，普通法对您违约或可能违约情况的救济措施可能不足以弥补我们遭受的全部损失，故我们有权在您违约或可能违约情况下寻求禁令救济以及普通法或衡平法允许的其他所有的补救措施。
+1.6.1 Accept all terms and conditions of this agreement. 
 
-八、责任限制与免责
-8.1您了解并同意，在任何情况下，我们不就以下各事项承担责任：
-8.1.1收入的损失；
-8.1.2交易利润或合同损失；
-8.1.3业务中断造成的损失；
-8.1.4预期可节省的货币的损失；
-8.1.5信息问题造成的损失；
-8.1.6机会、商誉或声誉的损失；
-8.1.7数据的损坏或损失；
-8.1.8购买替代产品或服务的成本；
-8.1.9任何由于侵权（包括过失）、违约或其他任何原因产生的间接的、特殊的或附带性的损失或损害，不论这种损失或损害是否可以为我们合理预见；不论我们是否事先被告知存在此种损失或损害的可能性。
-8.1.1条至8.1.9条均是彼此独立的。
-8.2您了解并同意，我们不对因下述任一情况而导致您的任何损害赔偿承担责任：
-8.2.1您的具体交易事项可能存在重大违法或违约情形。
-8.2.2您在本网站的行为涉嫌违法或不道德。
-8.2.3通过本网站服务购买或获取任何数据、信息或进行交易等行为或替代行为产生的费用及损失。
-8.2.4您对本网站服务的误解。
-8.2.5任何非因我们的原因而引起的与本网站提供的服务有关的其它损失。
-8.3我们对由于信息网络设备维护、信息网络连接故障、电脑、通讯或其他系统的故障、电力故障、天气原因、意外事故、罢工、劳动争议、暴乱、起义、骚乱、生产力或生产资料不足、火灾、洪水、风暴、爆炸、战争、银行或其他合作方原因、数字资产市场崩溃、政府行为、司法或行政机关的命令、其他不在我们可控范围内或我们无能力控制的行为或第三方的原因而造成的不能服务或延迟服务，以及造成您的损失，我们不承担任何责任。
-8.4我们不能保证本网站包含的全部信息、程序、文本等完全安全，不受任何病毒、木马等恶意程序的干扰和破坏，故您登陆、使用本网站任何服务或下载及使用该下载的任何程序、信息、数据等均是您个人的决定并自行承担风险及可能产生的损失。
-8.5我们对本网站中链接的任何第三方网站的任何信息、产品及业务及其他任何形式的不属于我们的主体的内容等不做任何保证和承诺，您如果使用第三方网站提供的任何服务、信息及产品等均为您个人决定且承担由此产生的一切责任。
-8.6我们对于您使用本网站服务不做任何明示或暗示的保证，包括但不限于本网站提供服务的适用性、没有错误或疏漏、持续性、准确性、可靠性、适用于某一特定用途。同时，我们也不对本网站提供的服务所涉及的技术及信息的有效性、准确性、正确性、可靠性、质量、稳定、完整和及时性作出任何承诺和保证。是否登陆或使用本网站提供的服务是您个人的决定且自行承担风险及可能产生的损失。我们对于数字资产的市场、价值及价格等不做任何明示或暗示的保证，您理解并了解数字资产市场是不稳定的，价格和价值随时会大幅波动或崩盘，交易数字资产是您个人的自由选择及决定且自行承担风险及可能产生的损失。
-8.7本协议中规定的我们的保证和承诺是由我们就本协议和本网站提供的服务的唯一保证和陈述，并取代任何其他途径和方式产生的保证和承诺，无论是书面的或口头的，明示的或暗示的。所有这些保证和陈述仅仅代表我们自身的承诺和保证，并不保证任何第三方遵守本协议中的保证和承诺。
-8.8我们并不放弃本协议中未提及的在法律适用的最大范围内我们享有的限制、免除或抵销我们损害赔偿责任的任何权利。
-8.9您注册后即表示认可我们按照本协议中规定的规则进行的任何操作，产生的任何风险均由您承担。
+1.6.2 You confirm that you have reached the age of 18 or have the legal age to conclude a contract according to different applicable laws, and your registration, sales or purchase, release of information on this website, etc. to accept the services of this website shall Comply with the relevant laws and regulations of sovereign countries or regions that have jurisdiction over you, and have sufficient ability to accept these terms, enter into transactions, and use this website to conduct digital asset transactions. 
 
-九、协议的终止
-9.1本网站有权依据本协议约定终止全部本网站服务，本协议于本网站全部服务终止之日终止。
-9.2本协议终止后，您无权要求本网站继续向其提供任何服务或履行任何其他义务，包括但不限于要求本网站为您保留或向您披露其原本网站账号中的任何信息，向您或第三方转发任何其未曾阅读或发送过的信息等。
-9.3本协议的终止不影响守约方向违约方要求承担其他责任。
+1.6.3 You guarantee that the digital assets belonging to you involved in the transaction are legally obtained and have ownership rights. 
 
-十、知识产权
-10.1本网站所包含的全部智力成果包括但不限于网站标志、数据库、网站设计、文字和图表、软件、照片、录像、音乐、声音及其前述组合，软件编译、相关源代码和软件(包括小应用程序和脚本)的知识产权权利均归本网站所有。您不得为商业目的复制、更改、拷贝、发送或使用前述任何材料或内容。
-10.2本网站名称中包含的所有权利(包括但不限于商誉和商标、标志)均归公司所有。
-10.3您接受本协议即视为您主动将您在本网站发表的任何形式的信息的著作权，包括但不限于：复制权、发行权、出租权、展览权、表演权、放映权、广播权、信息网络传播权、摄制权、改编权、翻译权、汇编权以及应当由著作权人享有的其他可转让权利无偿独家转让给本网站所有，本网站有权利就任何主体侵权单独提起诉讼并获得全部赔偿。本协议效力及于您在本网站发布的任何受著作权法保护的作品内容，无论该内容形成于本协议签订前还是本协议签订后。
-10.4您在使用本网站服务过程中不得非法使用或处分本网站或他人的知识产权权利。您不得将已发表于本网站的信息以任何形式发布或授权其它网站（及媒体）使用。
-10.5您登陆本网站或使用本网站提供的任何服务均不视为我们向您转让任何知识产权。
+1.6. 4 You agree that you bear full responsibility and any gains or losses for your own trading or non-trading activities. 
 
-十一、信息保护
-以本网站单独公示的《隐私条款》的约定为准。
+1.6.5 You confirm that the information provided during registration is true and accurate. 
 
-十二、计算
-所有的交易计算结果都经过我们的核实，所有的计算方法都已经在网站上公示，但是我们不能保证网站的使用不会受到干扰或没有误差。
+1.6.6 You agree to comply with any relevant laws and regulations, including reporting any trading profits for tax purposes. 
 
-十三、出口控制
-您理解并承认，根据爱沙尼亚相关法律，您不得将本网站上的任何材料（包括软件）出口、再出口、进口或转移，故您保证不会主动实施或协助或参与任何上述违反法规的出口或有关转移或其他违反适用的法律和法规的行为；如发现此类情形，应及时向我们积极报告并协助我们处理。
+1.6.7 You agree not to engage in or participate in behaviors or activities that harm the interests of this website or the company at any time, regardless of whether it is related to the services provided by this website. 
 
-十四、转让
-本协议中约定的权利及义务同样约束从该权利义务中获取到利益的各方的受让人，继承人，遗嘱执行人和管理员。您不得在我们不同意的前提下转让给任何第三人，但我们可随时将我们在本协议中的权利和义务转让给任何第三人，并给予您通知。
+1.6.8 This agreement only restricts the rights and obligations between you and us, and does not involve legal relationships and legal disputes between users of this website and other websites and you due to digital asset transactions.
 
-十五、可分割性
-如本协议中的任何条款被任何有管辖权的法院认定为不可执行的，无效的或非法的，并不影响本协议的其余条款的效力。
+2. Agreement revision
+We reserve the right to revise this agreement from time to time, and make announcements on the website, and no longer notify you separately. The changed agreement will be marked on the homepage of this agreement with the time of change, and once it is published on the website, it will automatically take effect immediately. You should browse and pay attention to the update time and content of this agreement from time to time. If you do not agree to the relevant changes, you should immediately stop using the services of this website; your continued use of the services of this website means that you accept and agree to the revised agreement. 
 
-十六、非代理关系
-本协议中的任何规定均不可被认为创造了、暗示了或以其他方式将我们视为您的代理人、受托人或其他代表人，本协议有其他规定的除外。
+3. Registration
+3.1 Registration Eligibility You confirm and promise: When you complete the registration process or actually use the services provided by this website in other ways allowed by this website, you should be able to sign this agreement and use this website in accordance with applicable laws. A natural person, legal person or other organization with the required capabilities of the website service. Once you click the agree to register button, it means that you or your authorized agent have agreed to the content of the agreement and the agent will register and use the services of this website. If you do not have the above-mentioned subject qualifications, you and your authorized agent shall bear all the consequences caused by this, and the company reserves the right to cancel or permanently freeze your account and hold you and your authorized agent accountable . 
 
-十七、弃权
-我们或您任何一方对追究本协议约定的违约责任或其他责任的弃权并不能认定或解释为对其他违约责任的弃权；未行使任何权利或救济不得以任何方式被解释为对该等权利或救济的放弃。
+3.2 Purpose of Registration You confirm and promise that your registration on this website is not for the purpose of violating laws and regulations or disrupting the order of digital asset transactions on this website. 
 
-十八、标题
-所有标题仅供协议表述方便，并不用于扩大或限制该协议条款的内容或范围。
+3.3 Registration process 
 
-十九、适用法律
-本协议全部内容均为根据爱沙尼亚法律而订立，任何因与本协议约定的服务有关而产生的索赔或诉讼，都应依照爱沙尼亚的法律进行管辖并加以解释和执行
-任何针对我们或者和我们有关的索赔或诉讼的管辖法院或诉讼地均在爱沙尼亚。您无条件地获得在爱沙尼亚法院进行诉讼和上诉的专属管辖权。您也无条件地同意与本协议有关的争议或问题或产生的任何索赔请求和诉讼的发生地或法院均排他性地在爱沙尼亚，无条件同意并接受上述法院对由这些条款引起的任何诉讼或争议的专属管辖权。
+3.3.1 You agree to provide valid e-mail address, mobile phone number and other information according to the requirements of the user registration page of this website. You can use the e-mail address, mobile phone number you provided or confirmed, or other methods allowed by this website to enter this website. website. If necessary, in accordance with the relevant laws and regulations of different jurisdictions, you must provide your real name, ID card and other relevant information as required by laws and regulations, privacy clauses and anti-money laundering clauses, and constantly update the registration information to comply with timely, detailed and accurate Claim. All the original typed information will be cited as registration information. You are responsible for the authenticity, completeness and accuracy of such information, and bear any direct or indirect losses and adverse consequences arising therefrom. 
 
-二十、协议的生效和解释
-20.1本协议于您点击本网站注册页面的同意注册并完成注册程序、获得本网站账号和密码时生效，对本网站和您均具有约束力。
-20.2本协议的最终解释权归本网站所有。
+3.3.2 If the laws, regulations, rules, orders and other regulations of your sovereign country or region have real-name requirements for mobile phone numbers, you agree to provide registered mobile phone numbers through real-name registration. If you do not provide them in accordance with the regulations, you will Any direct or indirect losses and adverse consequences should be borne by you. 
 
-##### 了解你的客户和反洗钱政策
+3.3.3 You are legal, complete and effective to provide the information required for registration and after verification, you have the right to obtain the account and password of this website. When you obtain the account and password of this website, you will be deemed to have successfully registered and you can log in as a member on this website. 
 
-一、导言
-1.1我们保证审慎遵守“了解你的客户”和反洗钱相关的法律法规且不得故意违反该《了解你的客户和反洗钱政策》。在我们合理控制的范围内我们将采取必要的措施和技术为您提供安全的服务，尽可能使您免于遭受犯罪嫌疑人的洗钱行为带来的损失。
-1.2我们的了解你的客户和反洗钱政策是一个综合性的国际政策体系，包括您隶属的不同法律辖区的了解你的客户和反洗钱政策。
+3.3.4 You agree to receive emails and/or short messages sent by this website related to the management and operation of this website.
 
-二、了解你的客户和反洗钱政策如下：
-2.1颁布了解你的客户和反洗钱政策并时时更新以满足相应的法律法规规定的标准；
-2.2颁布和更新运行本网站的一些指导原则和规则，且我们的员工将按照该原则和规则的指导提供服务；
-2.3设计并完成内部监测和控制交易的程序，如以严格的手段验证身份，安排组建专业团队专门负责反洗钱工作；
-2.4采用风险预防的方法对客户进行尽职调查和持续的监督;
-2.5审查和定期检查已发生的交易;
-2.6向主管当局报告可疑交易;
-2.7身份证明文件、地址证明文件和交易记录的证明文件将会维持至少六年，如被提交给监管部门，恕不另行通知您。
+4. Services
+This website only provides online trading platform services for you to conduct digital asset trading activities (including but not limited to digital asset trading services) through this website. 
 
-三、身份信息与核实确认
-3.1身份信息
-3.1.1根据不同的司法管辖区的不同规定及不同的实体类型，我们收集的您的信息内容可能不一致，原则上将向注册的个人收集以下信息：
-个人基本信息：您的姓名，住址（及永久地址，如果不同），出生日期及国籍等可获得的其他情况。身份验证应该是根据官方或其他类似权威机构发放的文件，比如护照，身份证或其他不同的辖区要求的和引发的身份证明文件。您提供的地址将使用适当的方法进行验证，比如检查乘用交通工具的票据或利率票据或检查选民登记册等。
-有效的照片：在您注册之前，您须提供您将您的身份证件放在胸前的照片；
-联系方式：电话/手机号码和/或有效的电子邮件地址。
-3.1.2如果您是一个公司或其他合法实体，我们将收集以下信息以确定您或信托帐户的最终受益人。
-公司注册、登记证；公司的章程与备忘录副本；公司的股权机构和所有权说明的详细证明材料，证明决定本网站账户的开立以及执行的授权委托人的董事会决议；按照要求需要提供的公司董事、大股东及本网站账户有权签字人的身份证明文件；该公司的主要营业地址，如果与公司的邮寄地址不同，提供邮寄地址。如果公司在本地的地址与它的主要营业地址不一致的，则被视为风险较高的客户，需要提交额外附加文件。
-根据不同的司法管辖区的不同规定及不同的实体类型，我们要求的其他认证和权威部门发布的文件以及我们认为必要的文件。
-3.1.3我们只接受英语版本或汉语版本的身份信息，如不是，请您将您的身份信息翻译成英文的版本并加以公证。
-3.2确认核实
-3.2.1我们要求您提供身份证明文件的全部页面内容。
-3.2.2我们要求您提供您将您的身份证明文件放在您胸前的照片。
-3.2.3证明文件的副本一般应核和原始凭证进行核对。然而，如果某个可信赖的合适的认证人可证明该副本文件是原始文件准确而全面的复制的，该副本可接受。这样的认证人包括大使、司法委员、地方治安官等。
-3.2.4对识别最终受益人和账户控制权的要求是确定哪些个人最终所有或控制直接客户，和/或确定正在进行的交易是由他人代为执行。如果是企业，则大股东的身份（例如那些持有10％或以上的投票权益）应被验证。一般，持股25％会被认定为正常风险内，其股东身份须验证；持股10%或拥有更多的投票权或股票时被认定为高风险的情况，股东身份须加以验证。
+4.1 Service content 
 
-四、监控交易
-4.1我们根据安全性和实际交易情况时时设置和调整日常交易和提币最高限额;
-4.2如果交易频繁集中发生在某个注册用户或存在超乎合理的情况，我们的专业团队将评估并决定他们是否可疑;
-4.3我们凭借自身的判断认定为可疑交易的情况，我们可能会采取暂停该交易、拒绝该交易等限制性措施，甚至如果可能将尽快逆转该交易，同时向主管部门报告，但不会通知您;
-4.4我们保留拒绝来自于不符合国际反洗钱标准辖区的人或可被视为政治公众人物的人的注册申请，我们保留随时暂停或终止根据我们自身判断为可疑交易的交易，但我们这样做并不违反对您的任何义务和责任。
+4.1.1 You have the right to browse real-time market quotations and transaction information of various digital asset products on this website, and have the right to submit digital asset transaction instructions and complete digital asset transactions through this website. 
+
+4.1.2 You have the right to view the information under your member account on this website, and have the right to use the functions provided by this website to operate.
+
+4.1.3 You have the right to participate in website activities organized by this website in accordance with the activity rules published on this website. 
+
+4.1.4 This website promises to provide you with other services. 
+
+4.2. Service Rules You promise to abide by the following service rules of this website: 
+
+4.2.1 You should abide by laws, regulations, rules, and policy requirements, ensure the legality of all digital asset sources in your account, and not use this website or use the services of this website Engaging in illegal or other activities that damage the rights and interests of this website or third parties, including but not limited to sending or receiving any illegal, illegal, or infringing information on the rights of others, sending or receiving pyramid schemes or other harmful information or speech, without this website Authorize the use or falsification of the email header information of this website, etc. 
+
+4.2.2 You should abide by laws and regulations and properly use and keep your account number, login password, fund password, and mobile phone number bound to you when registering, and the mobile phone verification code received by your mobile phone. You are fully responsible for any operations and consequences performed using your account number, login password, fund password, and mobile phone verification code. When you find that this website account, login password, or fund password, verification code is used by a third party without your authorization, or there are other account security issues, you should immediately notify this website effectively and request this website to suspend the service of this website account . This website has the right to take action on your request within a reasonable time, but this website does not assume any responsibility for the consequences (including but not limited to any loss of you) that have occurred before the action is taken. You may not give, borrow, rent, transfer or otherwise dispose of this website account to others without the consent of this website. 
+
+4.2.3 You agree to be responsible for all activities that occur under your account and password on this website (including but not limited to information disclosure, information release, online click to agree or submit various rules and agreements, online renewal agreements or purchase services, etc.) . 
+
+4.2. 4 When you conduct digital asset transactions on this website, you must not maliciously interfere with the normal progress of digital asset transactions or disrupt the order of transactions; you must not interfere with the normal operation of this website or interfere with other users' use of the services of this website by any technical means or other means; Malicious defamation of the goodwill of this website by means of fictitious facts. 
+
+4.2.5 If you have disputes with other users due to online transactions, you must not request this website to provide relevant information through channels other than judicial or administrative. 
+
+4.2.6 When you use the services provided by this website, you will be solely responsible for the judgment and borne by you for all taxable allowances and all hardware, software, service and other expenses incurred. 
+
+4.2.7 You shall abide by this agreement and other terms of service and operating rules published and updated by this website from time to time, and have the right to terminate the use of the services provided by this website at any time. 
+
+4.3. Product Rules 
+
+4.3.1 Browsing Transaction Information When you browse transaction information on this website, you should carefully read all the content contained in the transaction information, including but not limited to price, commissioned amount, handling fee, buying or selling direction, you After fully accepting all the content contained in the transaction information, click the button to proceed with the transaction. 
+
+4.3.2 Submission of entrustment After browsing the transaction information and confirming that it is correct, you can submit the entrustment. After you submit the transaction entrustment, you authorize this website to act on your behalf for the corresponding transaction matching. This website will automatically complete the matching transaction when there is a transaction that meets your entrusted price without notifying you in advance. 
+
+4.3.3 View transaction details You can view the corresponding transaction records through your account. 
+
+4.3.4 Revocation/modification of the commission, you have the right to cancel or modify the commission at any time before the transaction is concluded. 2Submit the commission After browsing the transaction information and confirming that it is correct, you can submit the transaction commission. After you submit the transaction entrustment, you authorize this website to act on your behalf for the corresponding transaction matching. This website will automatically complete the matching transaction when there is a transaction that meets your entrusted price without notifying you in advance. 
+
+4.3.3 View transaction details You can view the corresponding transaction records through your account. 
+
+4.3.4 Revocation/modification of the commission, you have the right to cancel or modify the commission at any time before the transaction is concluded. 2Submit the commission After browsing the transaction information and confirming that it is correct, you can submit the transaction commission. After you submit the transaction entrustment, you authorize this website to act on your behalf for the corresponding transaction matching. This website will automatically complete the matching transaction when there is a transaction that meets your entrusted price without notifying you in advance. 
+
+5. Rights and obligations of this website
+5.1 If you do not have the registration qualifications stipulated in this agreement, this website has the right to refuse your registration. For those who have been registered, this website has the right to cancel your member account, and this website reserves the right to Or your authorized agent has the right to hold accountable. At the same time, this website reserves the right to decide whether to accept your registration under any other circumstances. 
+
+5.2 According to this website's own judgment, this website has the right to suspend or terminate the use of your account and all associated accounts when it finds that you or your associated account users are not suitable for high-risk investment. 
+
+5.3 When this website finds that the account user is not the initial registrant of the account, it has the right to suspend or terminate the use of the account. 
+
+5.4 This website has the right to notify you to correct or update the information or suspend or terminate the provision of services of this website when it reasonably suspects that the information you provide is wrong, untrue, invalid or incomplete through technical testing, manual sampling and other testing methods. 
+
+5.5 This website has the right to correct the information when it finds any obvious errors in any information displayed on this website. 
+
+5.6 This website reserves the right to modify, suspend or terminate the services of this website at any time. This website exercises the right to modify or suspend the service without notifying you in advance; if this website terminates one or more of the services of this website, the termination from this website on the website Effective on the date of the announcement of termination. 
+
+5.7 This website will adopt necessary technical means and management measures to ensure the normal operation of this website, and provide necessary and reliable transaction environment and transaction services to maintain the order of digital asset transactions. 
+
+5.8 If you have not used the member account and password of this website to log in to this website for one year, this website has the right to cancel your account on this website. After the account is cancelled, this website has the right to open the corresponding member name to other users for registration. 
+
+5.9 This website protects the security of your digital assets by strengthening technical investment and improving security precautions, and will notify you in advance when there are foreseeable security risks in your account. 
+
+5.10 This website has the right to delete all kinds of content and information on this website that do not comply with laws and regulations or the provisions of this website at any time. This website does not need to notify you in advance to exercise such rights. 
+
+5.11 This website has the right to request more information or materials from you in accordance with the laws, regulations, rules, and orders of the sovereign country or region to which you belong, and to take reasonable measures to meet the requirements of local regulations. You have an obligation to cooperate; this website has the right to suspend or permanently stop opening part or all of the services of this website to you in accordance with the laws, regulations, rules, and orders of your sovereign country or region.
+
+6. Compensation
+6.1 In any case, our liability for your direct damages will not exceed the total service fee we charge you for your use of this website for three (3) months of service. 
+
+6.2 If you violate this agreement or other laws and regulations, you must compensate us at least 2 million US dollars and bear all the expenses (including attorney fees, etc.) incurred. If it is not enough to cover the actual loss, you must make up.
+
+7. The right to seek injunctive relief
+We and you both acknowledge that common law relief measures for your breach of contract or possible breach of contract may not be sufficient to make up for all the losses we have suffered, so we have the right to seek injunctive relief in the event of your breach of contract or possible breach of contract And all other remedies permitted by common law or equity.
+
+8. Limitation of Liability and Exemption
+8.1 You understand and agree that under any circumstances, we will not be liable for the following matters: 
+
+8.1.1 Loss of income; 
+
+8.1.2 Loss of trading profits or contract; 
+
+8.1.3 Losses caused by business interruption 
+
+8.1.4 Loss of expected money to be saved; 
+
+8.1.5 Loss caused by information problems; 
+
+8.1.6 Loss of opportunity, goodwill or reputation; 
+
+8.1.7 Damage or loss of data; 
+
+8.1.8 Purchase of alternative products or services 
+
+8.1.9 Any indirect, special or incidental loss or damage caused by infringement (including negligence), breach of contract or any other reason, regardless of whether such loss or damage can be reasonably foreseen by us; regardless of whether we Be informed in advance that there is a possibility of such loss or damage. Article 8.1.1 to 8.1.9 are independent of each other. 
+
+8.2 You understand and agree that we are not liable for any damages caused by any of the following circumstances: 
+
+8.2.1 There may be major violations of the law or breach of contract in your specific transactions. 
+
+8.2.2 Your behavior on this website is suspected of being illegal or unethical. 
+
+8.2.3 Costs and losses incurred by the purchase or acquisition of any data, information, or transactions through the services of this website, or alternative actions. 
+
+8.2.4 Your misunderstanding of the services of this website. 
+
+8.2.5 Any other losses related to the services provided by this website that are not caused by us. 
+
+8.3 We are responsible for the maintenance of information network equipment, information network connection failures, computer, communication or other system failures, power failures, weather reasons, accidents, strikes, labor disputes, riots, uprisings, riots, insufficient productivity or production materials, fires , Floods, storms, explosions, wars, bank or other partner reasons, digital asset market collapse, government actions, judicial or administrative orders, other actions that are not within our control or we are unable to control, or third parties We do not assume any responsibility for the inability to service or delayed service, as well as your losses. 
+
+8.4 We cannot guarantee that all the information, programs, texts, etc. contained in this website are completely safe and free from interference and damage by any virus, Trojan horse and other malicious programs. Therefore, you log in, use any service on this website or download and use any downloaded program , Information, data, etc. are your personal decision and you bear your own risks and possible losses. 
+
+8. 5 We do not make any guarantees and promises for any information, products and services of any third-party websites linked to this website, and any other forms of content that do not belong to our main body. If you use any services and information provided by third-party websites And products, etc. are your personal decision and bear all responsibilities arising therefrom. 
+
+8.6 We do not make any express or implied guarantees for your use of the services of this website, including but not limited to the applicability of the services provided on this website, no errors or omissions, continuity, accuracy, reliability, and suitability for a specific purpose. At the same time, we do not make any promises and guarantees regarding the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in the services provided on this website. Whether to log in or use the services provided by this website is your personal decision and at your own risk and possible losses. We do not make any express or implied guarantees regarding the market, value and price of digital assets. You understand and understand that the digital asset market is unstable, and prices and values may fluctuate or collapse at any time. Trading digital assets is your personal freedom Choose and decide at your own risk and possible losses. 
+
+8.7 Our guarantees and commitments stipulated in this agreement are our only guarantees and statements regarding the services provided by this agreement and this website, and replace any guarantees and commitments generated by other means and methods, whether written or oral, Explicit or implied. All these guarantees and statements only represent our own commitments and guarantees, and do not guarantee that any third party will comply with the guarantees and promises in this agreement. 
+
+8.8 We do not waive any rights that we have not mentioned in this agreement to limit, exempt or offset our liability for damages within the maximum scope of the applicable law. 8.9 After you register, you acknowledge that we perform any operation in accordance with the rules stipulated in this agreement, and any risks arising from it shall be borne by you. 6 We do not make any express or implied warranties for your use of the services on this website, including but not limited to the applicability of the services provided on this website, no errors or omissions, continuity, accuracy, reliability, and suitability for a specific purpose. At the same time, we do not make any promises and guarantees regarding the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in the services provided on this website. Whether to log in or use the services provided by this website is your personal decision and at your own risk and possible losses. We do not make any express or implied guarantees regarding the market, value and price of digital assets. You understand and understand that the digital asset market is unstable, and prices and values may fluctuate or collapse at any time. Trading digital assets is your personal freedom Choose and decide at your own risk and possible losses. 
+
+8.7 Our guarantees and commitments stipulated in this agreement are our only guarantees and statements regarding the services provided by this agreement and this website, and replace any guarantees and commitments generated by other means and methods, whether written or oral, Explicit or implied. All these guarantees and statements only represent our own commitments and guarantees, and do not guarantee that any third party will comply with the guarantees and promises in this agreement. 
+
+8.8 We do not waive any rights that we have not mentioned in this agreement to limit, exempt or offset our liability for damages within the maximum scope of the applicable law. 
+
+8.9 After you register, you acknowledge that we perform any operation in accordance with the rules stipulated in this agreement, and any risks arising from it shall be borne by you. 6 We do not make any express or implied warranties for your use of the services on this website, including but not limited to the applicability of the services provided on this website, no errors or omissions, continuity, accuracy, reliability, and suitability for a specific purpose. At the same time, we do not make any promises and guarantees regarding the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in the services provided on this website. Whether to log in or use the services provided by this website is your personal decision and at your own risk and possible losses. We do not make any express or implied guarantees regarding the market, value and price of digital assets. You understand and understand that the digital asset market is unstable, and prices and values may fluctuate or collapse at any time. Trading digital assets is your personal freedom Choose and decide at your own risk and possible losses. 
+
+IX. Termination of the agreement
+9.1 This website has the right to terminate all the services of this website in accordance with this agreement, and this agreement terminates on the day when all services of this website are terminated. 
+
+9.2 After the termination of this agreement, you have no right to require this website to continue to provide it with any services or perform any other obligations, including but not limited to requiring this website to retain or disclose to you any information in its original website account, to you or The third party forwards any information that it has not read or sent. 
+
+9.3 The termination of this agreement does not affect the observant party's request for other responsibilities from the breaching party.
+
+10. Intellectual Property
+10.1 All intellectual achievements contained in this website include, but are not limited to, website logos, databases, website design, text and graphics, software, photos, videos, music, sounds, and combinations of the foregoing, software compilation, related source code and The intellectual property rights of the software (including small applications and scripts) belong to this website. You may not copy, change, copy, send or use any of the foregoing materials or content for commercial purposes. 
+
+10.2 All rights contained in the name of this website (including but not limited to goodwill and trademarks, logos) belong to the company. 
+
+10.3 Your acceptance of this agreement shall be deemed as your initiative to take the copyright of any form of information published on this website, including but not limited to: reproduction rights, distribution rights, rental rights, exhibition rights, performance rights, projection rights, broadcasting rights, Information network dissemination rights, filming rights, adaptation rights, translation rights, compilation rights and other transferable rights that should be enjoyed by the copyright owner are exclusively transferred to this website for free, and this website has the right to file a separate lawsuit against any subject's infringement and obtain full compensation . The validity of this agreement and the content of any works protected by copyright law that you publish on this website, regardless of whether the content was formed before or after the signing of this agreement. 
+
+10.4 You shall not illegally use or dispose of the intellectual property rights of this website or others in the process of using the services of this website. You must not publish or authorize other websites (and media) to use the information published on this website in any form. 10.5 Your logging in to this website or using any service provided by this website shall not be deemed as our transfer of any intellectual property rights to you.
+
+11. Information protection is subject to the "Privacy Clause" separately published on this website.
+
+12. Calculation All transaction calculation results have been verified by us, and all calculation methods have been published on the website, but we cannot guarantee that the use of the website will not be interfered or error-free.
+
+13. Export Control You understand and acknowledge that, in accordance with the relevant laws of Estonia, you are not allowed to export, re-export, import or transfer any materials (including software) on this website, so you guarantee that you will not actively implement or assist or participate in any of the above Exports that violate regulations or related transfers or other violations of applicable laws and regulations; if such situations are discovered, they should actively report to us and assist us in handling them.
+
+14. The transfer of the rights and obligations stipulated in this agreement also restricts the assignees, heirs, executors and administrators of the parties who obtain benefits from the rights and obligations. You may not assign to any third party without our consent, but we can assign our rights and obligations in this agreement to any third party at any time and give you notice.
+
+15. Severability If any clause in this agreement is deemed unenforceable, invalid or illegal by any court with jurisdiction, it will not affect the validity of the remaining clauses of this agreement.
+
+16. Non-Agency Relationship Nothing in this agreement shall be deemed to have created, implied or otherwise treats us as your agent, trustee or other representative, unless there are other provisions in this agreement.
+
+17. Waiver of the waiver of our or any of your party’s waiver of the liability for breach of contract or other responsibilities stipulated in this agreement cannot be determined or interpreted as a waiver of other liabilities for breach of contract; failure to exercise any rights or remedies shall not be interpreted as a waiver in any way And other rights or relief.
+
+18. Titles All titles are only for the convenience of expressing the agreement, and are not used to expand or limit the content or scope of the terms of the agreement.
+
+19. Applicable law The entire content of this agreement is made in accordance with the laws of Estonia. Any claims or litigation arising from the services agreed in this agreement shall be governed by the laws of Estonia and be interpreted and enforced against us or The court of jurisdiction or venue for claims or litigation related to us is in Estonia. You unconditionally obtain exclusive jurisdiction for litigation and appeals in the courts of Estonia. You also unconditionally agree that any disputes or issues related to this agreement or any claims and litigation arising from the place or courts are exclusively in Estonia, and you unconditionally agree and accept the exclusiveness of the aforementioned courts for any litigation or disputes arising from these terms jurisdiction.
+
+20. Effectiveness and interpretation of the agreement 
+
+20.1 This agreement takes effect when you click on the registration page of this website to agree to register, complete the registration process, and obtain the account number and password of this website, and it is binding on this website and you. 
+
+20.2 The final interpretation right of this agreement belongs to this website.
+
+##### Know your customers and anti-money laundering policies
+
+1. Introduction 
+
+1.1 We guarantee to prudently abide by the laws and regulations related to “know your customers” and anti-money laundering and shall not intentionally violate the “know your customers and anti-money laundering policy”. Within the scope of our reasonable control, we will take the necessary measures and technologies to provide you with safe services, as far as possible to protect you from the losses caused by the money laundering of the criminal suspect. 
+
+1.2 Our know-your-customer and anti-money laundering policy is a comprehensive international policy system, including know-your-customer and anti-money laundering policies in different legal jurisdictions to which you belong.
+
+2. Know your customers and anti-money laundering policies are as follows: 
+
+2.1 promulgate know your customers and anti-money laundering policies and update them from time to time to meet the standards set by corresponding laws and regulations; 
+
+2.2 promulgate and update some guiding principles and rules for running this website, and Our employees will provide services in accordance with the principles and rules; 
+
+2.3 Design and complete internal monitoring and transaction control procedures, such as verification of identity by strict means, and arrange for the formation of a professional team responsible for anti-money laundering; 
+
+2.4 Adopt risk prevention methods Conduct due diligence and continuous supervision of customers; 
+
+2.5 review and regular inspection of transactions that have occurred; 
+
+2.6 report suspicious transactions to the competent authority; 
+
+2.7 identification documents, address certification documents and transaction records certification documents will be maintained for at least six years, such as Is submitted to the regulatory authority without notice to you.
+
+3. Identity information and verification 
+
+3.1 Identity information 
+
+3.1.1 According to the different regulations of different jurisdictions and different entity types, the content of your information we collect may be inconsistent. In principle, the following information will be collected from registered individuals: Personal Basic information: your name, residential address (and permanent address, if different), date of birth, nationality, and other information available. Identity verification should be based on documents issued by an official or other similar authority, such as passports, ID cards or other identity documents required and triggered by different jurisdictions. The address you provide will be verified using appropriate methods, such as checking passenger transportation tickets or interest rate tickets or checking the voter register. Valid photo: Before you register, you must provide a photo with your ID on your chest; Contact information: phone/mobile number and/or valid email address. 
+
+3.1.2 If you are a company or other legal entity, we will collect the following information to determine the ultimate beneficiary of you or the trust account. Company registration and registration certificate; a copy of the company’s articles of association and memorandum; detailed certification materials of the company’s equity structure and ownership description, certifying the decision of the opening of this website account and the execution of the board of directors’ resolutions of the authorized client; the company’s directors as required , Major shareholders and the identity documents of the person who has the right to sign the account on this website; the company’s main business address, if different from the company’s mailing address, provide the mailing address. If the company's local address is inconsistent with its main business address, it will be regarded as a higher-risk customer and need to submit additional documents. According to the different regulations of different jurisdictions and different entity types, we require other certifications and documents issued by authoritative departments and documents we deem necessary. 
+
+3.1.3 We only accept the English version or Chinese version of the identity information. If not, please translate your identity information into the English version and notarize it. 
+
+3.2 Confirmation and verification 
+
+3.2.1 We ask you to provide all the page content of your identity document. 
+
+3.2.2 We ask you to provide a photo of your identity document on your chest. 
+
+3.2.3 The copy of the certification document should generally be checked against the original certificate. However, if a reliable and suitable certifier can certify that the duplicate document is an accurate and complete reproduction of the original document, the duplicate is acceptable. Such certifiers include ambassadors, judicial commissioners, and local sheriffs. 
+
+3.2. 4 The requirements for identifying the ultimate beneficiaries and account control rights are to determine which individuals ultimately own or control direct customers, and/or determine that ongoing transactions are executed by others. If it is a business, the identities of major shareholders (such as those holding 10% or more of the voting rights) should be verified. Generally, holding 25% of the shares will be considered within normal risks, and the identity of the shareholder must be verified; when holding 10% of the shares or having more voting rights or stocks is deemed high-risk, the identity of the shareholder must be verified.
+
+4. Monitoring transactions 
+
+4.1 We set and adjust the daily transaction and withdrawal ceilings from time to time based on security and actual transaction conditions; 
+
+4.2 If transactions frequently occur in a registered user or there is an unreasonable situation, our professional team will evaluate And decide whether they are suspicious; 
+
+4.3 We may take restrictive measures such as suspending the transaction, rejecting the transaction, etc., if we determine that the transaction is suspicious based on our own judgment, and even if possible, we will reverse the transaction as soon as possible and report to the competent authority at the same time. But we will not notify you; 
+
+4.4 We reserve the right to reject registration applications from people who do not meet international anti-money laundering standards or who can be regarded as politically public figures, and we reserve to suspend or terminate transactions that are suspicious according to our own judgment at any time , But we do not violate any obligations and responsibilities to you.
+
 
