@@ -24,7 +24,7 @@ Url： /openapi/cfd/v1/entrust
 ```
 请求json:
 {
-    "code": "BTC_USD_COINBASE_CFD_BTC",
+    "code": "BTC_USD_ICNCDE_CFD_BTC",
      "command": "B",
      "type": "LIMIT",
      "lever": 50,
@@ -66,14 +66,14 @@ Url： /openapi/cfd/v1/entrust/batch
 ```
 请求 json:
 [{
-    "code": "BTC_USD_COINBASE_CFD_BTC",
+    "code": "BTC_USD_ICNCDE_CFD_BTC",
     "command": "B",
     "type": "MARKET",
     "lever": 50,
     "currency": "BTC",
     "qty": 1
 }, {
-    "code": "BTC_USD_COINBASE_CFD_BTC",
+    "code": "BTC_USD_ICNCDE_CFD_BTC",
     "command": "B",
     "type": "MARKET",
     "lever": 50,
@@ -222,7 +222,7 @@ Rows参数：
 {
         "avgPrice": 11408.57000000000000000000,
         "brokePrice": 11197.51000000000000000000,
-        "code": "BTC_USD_COINBASE_CFD_BTC",
+        "code": "BTC_USD_ICNCDE_CFD_BTC",
         "commodity": "BTC",
         "createdOn": 1597308343000,
         "currency": "BTC",
@@ -286,7 +286,7 @@ Url： /openapi/cfd/v1/deal/{orderId}
 {
     "avgPrice": 11408.57000000000000000000,
         "brokePrice": 11197.51000000000000000000,
-        "code": "BTC_USD_COINBASE_CFD_BTC",
+        "code": "BTC_USD_ICNCDE_CFD_BTC",
         "commodity": "BTC",
         "createdOn": 1597308343000,
         "currency": "BTC",
@@ -396,7 +396,7 @@ Url： /openapi/cfd/v1/entrust/{orderId}
 #### 10.3.1 返回示例
 ```
 {
-    "code": "BTC_USD_COINBASE_CFD_BTC",
+    "code": "BTC_USD_ICNCDE_CFD_BTC",
     "commodity": "BTC",
     "createdOn": 1597224730000,
     "currency": "BTC",
@@ -468,7 +468,7 @@ Rows参数：
     "pageNo": 1,
     "pageSize": 10,
     "rows": [{
-    "code": "BTC_USD_COINBASE_CFD_BTC",
+    "code": "BTC_USD_ICNCDE_CFD_BTC",
             "commodity": "BTC",
             "createdOn": 1597224730000,
             "currency": "BTC",
@@ -545,7 +545,7 @@ Rows参数：
     "pageNo": 1,
     "pageSize": 10,
     "rows": [{
-    "code": "BTC_USD_COINBASE_CFD_BTC",
+    "code": "BTC_USD_ICNCDE_CFD_BTC",
             "commodity": "BTC",
             "createdOn": 1597312910000,
             "currency": "BTC",

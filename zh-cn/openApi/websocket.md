@@ -71,7 +71,7 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 返回示例：
 {
   "data":["BTC","111.00111111","11.00001100"],
-  "channel":"CAPITAL",”instrumentCode”:”BTC_USDT_COINBASE_ENCRY”
+  "channel":"CAPITAL",”instrumentCode”:”BTC_USDT_ICNCDE_ENCRY”
 }
 ```
 ### 2.3 交易
@@ -79,10 +79,10 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 订阅请求指令：
 {
   "op":"SUBSCRIBE",
-  "args":["DEAL:BTC_USDT_COINBASE_ENCRY"]
+  "args":["DEAL:BTC_USDT_ICNCDE_ENCRY"]
 }
 ```
-其中”DEAL”为通道，”BTC_USDT_COINBASE_ENCRY”为币对信息
+其中”DEAL”为通道，”BTC_USDT_ICNCDE_ENCRY”为币对信息
 #### 返回数据格式：
 |     参数    	|     类型    	|     说明    	|
 |-	|-	|-	|
@@ -113,7 +113,7 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
         ]
     ],
     "channel":"DEAL",
-    "instrumentCode":"BTC_USDT_COINBASE_ENCRY"
+    "instrumentCode":"BTC_USDT_ICNCDE_ENCRY"
 }
 ```
 ### 2.4  Ticker
@@ -121,10 +121,10 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 订阅请求指令：
 {
   "op":"SUBSCRIBE",
-  "args":["TICKER:BTC_USDT_COINBASE_ENCRY:M1"]
+  "args":["TICKER:BTC_USDT_ICNCDE_ENCRY:M1"]
 }
 ```
-其中”TICKER”为通道，”BTC_USDT_COINBASE_ENCRY” 为币对信息，”M1”为周期（详情见3. 参数说明）
+其中”TICKER”为通道，”BTC_USDT_ICNCDE_ENCRY” 为币对信息，”M1”为周期（详情见3. 参数说明）
 #### 返回参数
 |     参数    	|     类型    	|     说明    	|
 |-	|-	|-	|
@@ -136,7 +136,7 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 返回示例：
 {
     "data":[
-        "BTC_USDT_COINBASE_ENCRY",
+        "BTC_USDT_ICNCDE_ENCRY",
         1584166560000,
         "8326",
         "8351",
@@ -151,7 +151,7 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
         "0"
     ],
     "channel":"TICKER",
-    "instrumentCode":"BTC_USDT_COINBASE_ENCRY",
+    "instrumentCode":"BTC_USDT_ICNCDE_ENCRY",
     "period":"M1"
 }
 ```
@@ -160,10 +160,10 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 订阅请求指令：
 {
   "op":"SUBSCRIBE",
-  "args":["KLINES:BTC_USDT_COINBASE_ENCRY:M1"]
+  "args":["KLINES:BTC_USDT_ICNCDE_ENCRY:M1"]
 }
 ```
-其中”KLINES” 为通道，”BTC_USDT_COINBASE_ENCRY” 为币对信息，”M1”为周期（详情见3. 参数说明）
+其中”KLINES” 为通道，”BTC_USDT_ICNCDE_ENCRY” 为币对信息，”M1”为周期（详情见3. 参数说明）
 #### 返回参数
 |     参数    	|     类型    	|     说明    	|
 |-	|-	|-	|
@@ -193,7 +193,7 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
         ]
     ],
     "channel":"KLINES",
-    "instrumentCode":"BTC_USDT_COINBASE_ENCRY",
+    "instrumentCode":"BTC_USDT_ICNCDE_ENCRY",
     "period":"M1"
 }
 ```
@@ -202,10 +202,10 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
 订阅请求指令：
 {
   "op":"SUBSCRIBE",
-  "args":["ORDER_BOOK:BTC_USDT_COINBASE_ENCRY:0.001"]
+  "args":["ORDER_BOOK:BTC_USDT_ICNCDE_ENCRY:0.001"]
 }
 ```
-其中”ORDER_BOOK” 为通道，”BTC_USDT_COINBASE_ENCRY” 为币对信息，”0.001”为步长深度（调用api接口获取）
+其中”ORDER_BOOK” 为通道，”BTC_USDT_ICNCDE_ENCRY” 为币对信息，”0.001”为步长深度（调用api接口获取）
 #### 返回参数
 |     参数    	|     类型    	|     说明    	|
 |-	|-	|-	|
@@ -240,7 +240,7 @@ sign:为签名字符串，签名规则参照请求说明（API概述验证部分
         ]
     },
     "channel":"ORDER_BOOK:0.001",
-    "instrumentCode":"BTC_USDT_COINBASE_ENCRY"
+    "instrumentCode":"BTC_USDT_ICNCDE_ENCRY"
 }
 ```
 ## 3.参数说明
